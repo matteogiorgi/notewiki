@@ -8,8 +8,8 @@
 - [Kurose - Computer networking](https://mega.nz/file/FwggVb7T#CrWC6nojc15VtAtjbvyp5Kcp2HsG44PQpvQB4WuYS0E)
 - [Tanenbaum - Computer networks](https://mega.nz/file/hhoT1Cza#sInfCJV5v0_3uebsug5H9MYsYcPbt-C5NA5QHrPrNWY)
 - [Kozierok - The TCP/IP guide](https://mega.nz/file/t8oHECbI#D-n0nG1QFfecMt2Gjujx2_q7clXVbfkhj7roy_OsrSs)
-- [Stevens - UNIX network programming (vol.1)](https://mega.nz/file/ksBzwKra#OGstS0taqIM3nwnmk_L7ORlCI2CaBPGli5zjcXUxM4w)
-- [Stevens - UNIX network programming (vol.2)](https://mega.nz/file/MkRSnRKa#0bGpfKWHPIAJIZJJQHeTwuju1PRY8m_nE_VcGS8xtqQ)
+- [Stevens - UNIX network programming (vol.1)](https://mega.nz/file/5pwmSDbJ#jmBM7LVwNrDsIAOb0Eg4LV_KkeR33YbycUfC_agZfW4)
+- [Stevens - UNIX network programming (vol.2)](https://mega.nz/file/xt5kXKLT#Ng3H-5hEr3gsfJ1Q45awfc-_SuTAxtL9oZ_puYRvIbs)
 
 
 ## AI & Machine learning
