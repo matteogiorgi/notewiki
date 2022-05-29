@@ -1,2 +1,0 @@
-- [find_s](find_s.md)
-- [candidate_elimination](candidate_elimination.md)
