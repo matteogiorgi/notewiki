@@ -14,10 +14,24 @@
 
 ## AI & Machine learning
 
+- [Ertel - Introduction to artificial intelligence](https://mega.nz/file/5goAlIQJ#U9RvsgyS-jYCztdiz_-4tjSmlKtXGDvdiw5S5PsC6b8)
+- [Hastie - The elements of statistical learning](https://mega.nz/file/5oBSBIja#6V_XwVHW7CySvXS7B1jCew7JEMgBQx72_dr-xXJLhmU)
+- [Burkov - The hundred page machine learning book](https://mega.nz/file/sogTUYib#6sm8-ZHOZGtxGZk-GhrStXqhkIK7RSp-8UjBCCLeKlI)
+- [Buontempo - Genetic algorithms and machine learning for programmers](https://mega.nz/file/99ZmCIBZ#XxN1u5XtRmv9mv32LjLEdMHnMvI7jtEJq2XkgAaWFlM)
+- [Perrotta - Programming machine learning](https://mega.nz/file/s1JTVBIC#rxL-6OUEmE_DNKYffZ3II-wT3x_DrAIkvUfWzIlpnTc)
+- [Mackay - Information theory, inference, and learning algorithms](https://mega.nz/file/MtwDnbzA#VrvAravQtdPdObw3MNeYONx54O8SRsJKsCTwFvwh3P0)
 - [Glassner - Deep learning](https://mega.nz/file/YlQwzYLQ#PbARYw8NOgAO1xTr6IClX2xIZQBGtIny4n0iW-EMql4)
+- [Goodfellow - Deep learning](https://mega.nz/file/9xZiDYRC#09nJ4gF_ODFfE1cyhkBUV76u8_EsHDhV-vWBTYgzW4g)
+- [Bishop - Pattern recognition and machine learning](https://mega.nz/file/ZkZ2yCyT#yUD-ln2etbQnnzFYpPB5f2xYegbXR8GgqV3IJYjWo1g)
+- [Russel - Artificial intelligence, a modern approach](https://mega.nz/file/ohACjRLS#_BsX0cUMa593Z0O8264h9lDsWAE8mQuHxKBvd4vKz8U)
 
 
-## GoLang
+## Haskell
+
+- [Doets - The haskell toad to logic, math and programming](https://mega.nz/file/c843HLoT#RiuHCzFixRusU0cqCQXrFPuOAU55DLqT3mm77noLX8s)
+
+
+## Go
 
 - [Donovan - The Go programming language](https://mega.nz/file/R8hyAIib#NsJ1Sw9L8yRHrY_AgCCTB1qaGtrizgZFdrWG6hHRDCM)
 - [Bodner - Learning Go](https://mega.nz/file/08JEXKyS#5tDJDKV9AZ5wWHJZ4Ye2u068COHLLuj7GRfYruEohUU)
