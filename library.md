@@ -1,6 +1,11 @@
 # Digital Portable Library
 
 
+## Operating systems
+
+- [Dusseau - Operating systems](https://mega.nz/file/B9IG2BIL#VmyVZ9HdtVi2_opATWZx81Ew0G9cPOJeDJTjG551W74)
+
+
 ## Computer networks
 
 - [Peterson - Computer networks](https://mega.nz/file/Z4pUEABR#dGNz0dwGvvTJ0jyBSNFh4MBrLHCrpMvNHk8mGKXogmo)
