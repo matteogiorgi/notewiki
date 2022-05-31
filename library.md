@@ -12,6 +12,28 @@
 - [Stevens - UNIX network programming (vol.2)](https://mega.nz/file/xt5kXKLT#Ng3H-5hEr3gsfJ1Q45awfc-_SuTAxtL9oZ_puYRvIbs)
 
 
+## Algorithms
+
+- [Cormen - Introduction to algorithms]()
+- [Sedgewick - Algorithms]()
+- [Sedgewick - Analysis of algorithms]()
+- [Zingaro - Algorithmic thinking]()
+- [Knuth - Mathematics for the analysis of algorithms]()
+- [Demetrescu - Algoritmi e strutture dati]()
+- [Erickson - Algorithms]()
+- [Skiena - The algorithms design manual]()
+- [Knuth - The art of computer programmig vol.1 (Fundamental algorithms)]()
+- [Knuth - The art of computer programmig vol.2 (Semenumerical algorithms)]()
+- [Knuth - The art of computer programmig vol.3 (Sorting and searching)]()
+- [Knuth - The art of computer programmig vol.4A (Combinatorial algorithms)]()
+
+
+## Competitive programming
+
+- [Laaksonen - Guide to competitive programming](https://mega.nz/file/9sAz1BzL#3c5ukLITOo7a80bTjPrVIKlUwJkmiZYSyJ5csVk4nTo)
+- [Rossi - Programming interview problems](https://mega.nz/file/Ik4BBJTJ#Z6jaq6q49XAlujklbm4CIsAbMlKi8V1-pop37bnxirg)
+
+
 ## AI & Machine learning
 
 - [Ertel - Introduction to artificial intelligence](https://mega.nz/file/5goAlIQJ#U9RvsgyS-jYCztdiz_-4tjSmlKtXGDvdiw5S5PsC6b8)
@@ -29,6 +51,14 @@
 ## Haskell
 
 - [Doets - The haskell toad to logic, math and programming](https://mega.nz/file/c843HLoT#RiuHCzFixRusU0cqCQXrFPuOAU55DLqT3mm77noLX8s)
+- [Whitington - Haskell from the veri beginning]()
+- [O'Sullivan - Real world Haskell]()
+- [Hutton - Programming in Haskell]()
+- [Bird - Thinking functionally with Haskell]()
+- [Bird - Algorithm design with Haskell]()
+- [Bird - Pearls of functional algorithms design]()
+- [Marlow - Parallel and concurrent programming in Haskell]()
+- [Snoyman - Developing web apps with Haskell and Yesod]()
 
 
 ## Go
