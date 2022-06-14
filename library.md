@@ -5,6 +5,8 @@
 
 - [Dusseau - Operating systems](https://mega.nz/file/B9IG2BIL#VmyVZ9HdtVi2_opATWZx81Ew0G9cPOJeDJTjG551W74)
 - [Bryant - Computer systems, a programmer's perspective](https://mega.nz/file/l8Q31IRY#W6Xg0SQwTo1ajt2Q1KGgLqUIIKAB_3Tc8FVW6AVy7TQ)
+- [Bresnahan - LPIC-1 study guide](https://mega.nz/file/05hCgLZI#JNzm5pHqSSh6KMUb4K7AfQyTVGX_OBDV4GdsyiJ_elg)
+- [Bresnahan - LPIC-2 study guide](https://mega.nz/file/o8wnXDQK#B-RWOUy6Vr6gDAgRm2_66WEVK2fVuPv-Lan9G5B_0qE)
 
 
 ## Computer networks
@@ -23,7 +25,7 @@
 - [Harold - Java network programming](https://mega.nz/file/MwwxyCzJ#5fO9MQgdSj2JjjA2Y7aH0uZd7DjXlow1LcwaDSXuA5w)
 
 
-## Algorithms
+## Algorithms & Data structures
 
 - [Knuth - The art of computer programmig, fundamental algorithms (vol.1)](nobook.jpg)
 - [Knuth - The art of computer programmig, semenumerical algorithms (vol.2)](nobook.jpg)
@@ -37,6 +39,7 @@
 - [Demetrescu - Algoritmi e strutture dati](https://mega.nz/file/g1YAVaKS#EjLYKIvyJoQxycqF6gJlXvubQaWuRUXO3F6IUjUGoTM)
 - [Erickson - Algorithms](https://mega.nz/file/osZx1bob#XuIDy1Om2i_Nuivs7BlLY8_EeCLqCh9LKYoRxe2n4mA)
 - [Skiena - The algorithm design manual](https://mega.nz/file/I0h0mQyZ#dAlTfFIKZH4QxSstU7ZCZlRFsx8CrCxQt7bTAEz7_Ps)
+- [Okasaki - Purely functional data structures](https://mega.nz/file/A8wnkRia#gfCRhv6LwDgyxBTRcdIz96PDhXvRFgeEN8fpTa6MM44)
 
 
 ## Competitive programming
@@ -57,6 +60,11 @@
 - [Goodfellow - Deep learning](https://mega.nz/file/9xZiDYRC#09nJ4gF_ODFfE1cyhkBUV76u8_EsHDhV-vWBTYgzW4g)
 - [Bishop - Pattern recognition and machine learning](https://mega.nz/file/ZkZ2yCyT#yUD-ln2etbQnnzFYpPB5f2xYegbXR8GgqV3IJYjWo1g)
 - [Russel - Artificial intelligence, a modern approach](https://mega.nz/file/ohACjRLS#_BsX0cUMa593Z0O8264h9lDsWAE8mQuHxKBvd4vKz8U)
+
+
+## Programming languages
+
+- [Pierce - Types and programming languages](https://mega.nz/file/x4ZFjIxb#Ca6TDQ-8dYAYK2NzbYk9quOcfDe0vWIkqaFmc5rPC-U)
 
 
 ## Haskell
