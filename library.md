@@ -90,3 +90,10 @@
 ## Web frameworks
 
 - [Snoyman - Developing web apps with Haskell and Yesod](https://mega.nz/file/1lJ3BShD#eGLfh3We73WfrvT8FiOn9D96p4QPvFIRX8MuSDwE2_E)
+
+
+## Fisica
+
+- [Kittel - La fisica di Berkeley, meccanica (vol.1)](https://mega.nz/file/s4oCyKzA#nmetE1syRQLoqyDaHF7m6XIdUFHSQreovNSxIpcCe2s)
+- [Purcell - La fisica di Berkeley, elettricità e magnetismo (vol.2)](nobook.jpg)
+- [Crawford - La fisica di Berkeley, onde e oscillazioni (vol.3)](nobook.jpg)
