@@ -13,3 +13,6 @@
 
 - [orali 10 giugno](reti0610.md)
 - [orali 29 giugno](reti0629.md)
+
+
+## Note

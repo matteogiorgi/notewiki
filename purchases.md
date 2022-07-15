@@ -8,6 +8,7 @@
 - [gambetta - computer graphics from scratch](https://www.amazon.it/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TAO71X4NAVQH&keywords=computer+graphic&qid=1655816848&sprefix=computer+graphic%2Caps%2C93&sr=8-6)
 
 
+<!-- - [anderson - security engineering](https://www.amazon.it/Security-Engineering-Building-Dependable-Distributed/dp/0470068523/ref=sr_1_4?keywords=security+engineering&qid=1656744599&sprefix=security+enginee%2Caps%2C103&sr=8-4) -->
 <!-- - [ferguson - java power tools](https://www.amazon.it/Java-Power-Tools-Ferguson-Smart/dp/0596527934/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3NXTN5O6GEE13&keywords=o%27reilly+Power+Tools&qid=1656235333&sprefix=o+reilly+power+tools%2Caps%2C86&sr=8-3) -->
 <!-- - [burns - security power tools](https://www.amazon.it/Security-Power-Tools-Bryan-Burns/dp/0596009631/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GIEBHA5PPG77&keywords=Security+Power+Tools&qid=1656235075&sprefix=security+power+tools%2Caps%2C95&sr=8-3) -->
 <!-- - [cole - network security bible](https://www.amazon.it/Network-Security-Bible-Eric-Cole/dp/0470502495/ref=sr_1_35?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5EFZBS2BPA2K&keywords=network+security&qid=1656139479&s=books&sprefix=network+security%2Cstripbooks%2C91&sr=1-35) -->
