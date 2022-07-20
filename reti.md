@@ -13,6 +13,9 @@
 
 - [orali 10 giugno](reti0610.md)
 - [orali 29 giugno](reti0629.md)
+- [orali 20 luglio](reti0720.md)
 
 
-## Note
+## Lab
+
+- [Java API](file:///usr/share/doc/openjdk-8-doc/api/allclasses-frame.html)

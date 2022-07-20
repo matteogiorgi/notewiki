@@ -6,6 +6,8 @@
 - [abelson - sicp: javascript edition](https://www.amazon.it/Structure-Interpretation-Computer-Programs-JavaScript/dp/0262543230/ref=sr_1_27?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=UVBLYKU0U1QN&keywords=javascript&qid=1645140835&sprefix=javascrip%2Caps%2C102&sr=8-27)
 - [rauschmayer - javascript fot the impatient programmers](https://www.amazon.it/JavaScript-impatient-programmers-Axel-Rauschmayer/dp/1091210098/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1P3XADBDYKSS7&keywords=JavaScript+for+impatient+programmers&qid=1649351086&sprefix=javascript+for+impatient+programmers%2Caps%2C168&sr=8-1)
 - [gambetta - computer graphics from scratch](https://www.amazon.it/Computer-Graphics-Scratch-Gabriel-Gambetta/dp/1718500769/ref=sr_1_6?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TAO71X4NAVQH&keywords=computer+graphic&qid=1655816848&sprefix=computer+graphic%2Caps%2C93&sr=8-6)
+- [donahue - network warrior](https://www.amazon.it/Network-Warrior-Gary-Donahue/dp/1449387861/ref=rvi_sccl_1/257-5658419-2499918?pd_rd_w=G3kXB&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=E49A9BBEM0NPYVTS5XKF&pd_rd_wg=qR8Hc&pd_rd_r=18eb5abf-82c4-4c81-817b-fb7bfe5cf333&pd_rd_i=1449387861&psc=1)
+- [gray - network function virtualization](https://www.amazon.it/Network-Function-Virtualization-Ken-Gray/dp/0128021195/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658322164&sr=8-2)
 
 
 <!-- - [anderson - security engineering](https://www.amazon.it/Security-Engineering-Building-Dependable-Distributed/dp/0470068523/ref=sr_1_4?keywords=security+engineering&qid=1656744599&sprefix=security+enginee%2Caps%2C103&sr=8-4) -->

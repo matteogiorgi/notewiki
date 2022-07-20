@@ -2,7 +2,7 @@
 
 - [Czekster - Markov chains for programmers](https://mega.nz/file/Bt41laCb#qQ96PrmemSyv_Wfz6eB1tV_j_dPnxIpSz6HAbYriHr4)
 - [Michell - Machine learning](https://mega.nz/file/k4Zg2KQJ#F99glRJ6QnkFXrtP_-sOtRaH-KQpjYXd6dVD2PVhdEY)
-- [Forouzan - Compputer networks, a top down approach](https://mega.nz/file/0xgABACb#hXXVi7bVTjzEzwnsO4rXJDf1DXm9s0im6YrUOqvE35E)
+- [Forouzan - Computer networks, a top down approach](https://mega.nz/file/0xgABACb#hXXVi7bVTjzEzwnsO4rXJDf1DXm9s0im6YrUOqvE35E)
 - [Murphy - Probabilistic machine learning](https://mega.nz/file/ltxylYCI#URC7XSSEDemm70vlxB77-3waaxFAsrepEHXXdU0qzQE)
 - [Sannella - Introduction to computation, haskell, logic and automata](https://mega.nz/file/cxZiiKZB#1xk_WE35yDRSlDAs1l8lj18ru_OSPEWTpArfRYSbBsk)
 - [Lepori - Linguaggi di programmazione (LISP)](https://mega.nz/file/51x2jDjL#OEeNTJmdgz6ZyxsjlQiwQX_3ArHuY3UKUPiHtXtU4BY)
