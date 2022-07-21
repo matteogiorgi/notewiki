@@ -12,7 +12,7 @@ Rust è un linguaggio di programmazione multi-paradigma sviluppato da Mozilla Re
 L’obiettivo del lavoro proposto è uno studio del type system di Rust, finalizzato a una valutazione qualitativa dell’impatto dei meccanismi di ownership e di borrowing sullo sviluppo di programmi, tramite il confronto di semplici programmi Rust (sviluppati dal candidato o estratti da librerie pubbliche) con corrispondenti programmi in Java o C++. 
 
 
-## Proponenti
+## Referenti
 
 - Andrea Corradini
 - Gian-Luigi Ferrari
