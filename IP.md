@@ -1,0 +1,9 @@
+- modello datagram
+- formato del pacchetto IP
+- frammentazione
+- indirizzamento IP
+- addressing flassfull/classless
+- subnet mask
+- aggregazione degli indirizzi
+- forwarding diretto/indiretto
+- NAT

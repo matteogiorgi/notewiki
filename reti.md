@@ -1,5 +1,7 @@
 # Appunti [*Reti di calcolatori e laboratorio*](https://elearning.di.unipi.it/course/view.php?id=257)
 
+- [programma](programma.md)
+
 
 ## Dispense
 
@@ -15,6 +17,7 @@
 - [orali 10 giugno](reti0610.md)
 - [orali 29 giugno](reti0629.md)
 - [orali 20 luglio](reti0720.md)
+- [orali 26 luglio](reti0726.md)
 
 
 ## Lab

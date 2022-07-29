@@ -1,0 +1,9 @@
+- formato del segmento TCP
+- numero sequenza e riscontro
+- instaurazione e chiusura connessione (3-way handshake)
+- trasferimento dati affidabile
+- finestra trasmissione/ricezione
+- controllo di flusso
+- controllo congestione
+- TCP Tahoe
+- TCP Reno

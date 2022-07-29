@@ -1,0 +1,49 @@
+- introduzione:
+    - LAN
+    - WAN
+    - commutazione di pacchetto/circuito
+    - ISP
+    - [metriche](metriche.md)
+- modello ISO/OSI
+- stack TCP/IP
+- livello applicazione
+    - socket
+    - URI/URL
+    - [HTTP](HTTP.md)
+    - TELNET
+    - [SMTP](SMTP.md)
+    - POP
+    - IMAP
+    - [DNS](DNS.md)
+    - [FTP](FTP.md)
+- livello trasporto
+    - servizio orientato/non orientato alla connessione
+    - mutiplexing/demultiplexing
+    - porte riservate
+    - [TCP](TCP.md)
+    - [UDP](UDP.md)
+- livello rete
+    - [IP](IP.md)
+    - DHCP
+    - [ICMP](ICMP.md)
+    - [architettura router](router.md)
+    - BGP
+    - RIP
+    - OSPF
+    - IPv6
+    - dual stack
+    - IPv4 tunneling
+- livello collegamento
+    - protocollo MAC
+    - ARP
+    - ethernet
+    - dispositivi di interconnessione (switch, hub)
+    - VLAN
+- applicazioni p2p
+    - reti p2p
+    - bittorrent
+- sicurezza
+    - cifratura
+    - firma digitale
+    - IPSec
+    - SSL/TLS
