@@ -1,4 +1,4 @@
-- introduzione:
+- introduzione
     - LAN
     - WAN
     - commutazione di pacchetto/circuito
