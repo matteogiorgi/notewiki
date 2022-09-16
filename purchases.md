@@ -4,6 +4,7 @@
 - [thain - introduction to compilers and language design](https://www.amazon.it/Introduction-Compilers-Language-Design-Second/dp/B08BFWKRJH/ref=pd_bxgy_img_1/262-3710502-5555805?pd_rd_w=oXgBz&pf_rd_p=33067109-a506-4980-8821-e43563e26fd9&pf_rd_r=MWHNTM90CVDJFE86XKWG&pd_rd_r=dd4f59c4-05d7-4b60-aec0-cf53a4ab996e&pd_rd_wg=DuMWl&pd_rd_i=B08BFWKRJH&psc=1)
 - [orourke - computational geometry in c](https://www.amazon.it/Computational-Geometry-C-Joseph-ORourke/dp/0521649765/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NJXAPRALDE3Z&keywords=computational+geometry&qid=1641080420&sprefix=computational+geometry%2Caps%2C110&sr=8-2)
 - [gray - network function virtualization](https://www.amazon.it/Network-Function-Virtualization-Ken-Gray/dp/0128021195/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658322164&sr=8-2)
+- [nielsen - quantum computation and quantum information](https://www.amazon.it/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=DVUD0X0PQQ4D&keywords=Quantum+Computation+and+Quantum+Information&qid=1661648008&sprefix=quantum+computation+and+quantum+information%2Caps%2C115&sr=8-1)
 
 
 <!-- - [abelson - sicp: javascript edition](https://www.amazon.it/Structure-Interpretation-Computer-Programs-JavaScript/dp/0262543230/ref=sr_1_27?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=UVBLYKU0U1QN&keywords=javascript&qid=1645140835&sprefix=javascrip%2Caps%2C102&sr=8-27) -->
