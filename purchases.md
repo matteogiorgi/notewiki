@@ -3,7 +3,6 @@
 - [dusseau - operating systems](https://www.amazon.it/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=pd_sim_sccl_2_18/257-3293474-5818620?pd_rd_w=ZJpmz&pf_rd_p=0a8fd29c-6c57-4a75-a733-6fbd6f4ebb63&pf_rd_r=W0R27XX5JSW2X78WAYWM&pd_rd_r=c337581a-7068-422c-8baf-4bd2698afbc6&pd_rd_wg=8TO0O&pd_rd_i=198508659X&psc=1)
 - [thain - introduction to compilers and language design](https://www.amazon.it/Introduction-Compilers-Language-Design-Second/dp/B08BFWKRJH/ref=pd_bxgy_img_1/262-3710502-5555805?pd_rd_w=oXgBz&pf_rd_p=33067109-a506-4980-8821-e43563e26fd9&pf_rd_r=MWHNTM90CVDJFE86XKWG&pd_rd_r=dd4f59c4-05d7-4b60-aec0-cf53a4ab996e&pd_rd_wg=DuMWl&pd_rd_i=B08BFWKRJH&psc=1)
 - [orourke - computational geometry in c](https://www.amazon.it/Computational-Geometry-C-Joseph-ORourke/dp/0521649765/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NJXAPRALDE3Z&keywords=computational+geometry&qid=1641080420&sprefix=computational+geometry%2Caps%2C110&sr=8-2)
-- [gray - network function virtualization](https://www.amazon.it/Network-Function-Virtualization-Ken-Gray/dp/0128021195/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658322164&sr=8-2)
 - [nielsen - quantum computation and quantum information](https://www.amazon.it/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=DVUD0X0PQQ4D&keywords=Quantum+Computation+and+Quantum+Information&qid=1661648008&sprefix=quantum+computation+and+quantum+information%2Caps%2C115&sr=8-1)
 
 
@@ -13,6 +12,7 @@
 <!-- - [donahue - network warrior](https://www.amazon.it/Network-Warrior-Gary-Donahue/dp/1449387861/ref=rvi_sccl_1/257-5658419-2499918?pd_rd_w=G3kXB&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=E49A9BBEM0NPYVTS5XKF&pd_rd_wg=qR8Hc&pd_rd_r=18eb5abf-82c4-4c81-817b-fb7bfe5cf333&pd_rd_i=1449387861&psc=1) -->
 
 
+<!-- - [gray - network function virtualization](https://www.amazon.it/Network-Function-Virtualization-Ken-Gray/dp/0128021195/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1658322164&sr=8-2) -->
 <!-- - [anderson - security engineering](https://www.amazon.it/Security-Engineering-Building-Dependable-Distributed/dp/0470068523/ref=sr_1_4?keywords=security+engineering&qid=1656744599&sprefix=security+enginee%2Caps%2C103&sr=8-4) -->
 <!-- - [ferguson - java power tools](https://www.amazon.it/Java-Power-Tools-Ferguson-Smart/dp/0596527934/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3NXTN5O6GEE13&keywords=o%27reilly+Power+Tools&qid=1656235333&sprefix=o+reilly+power+tools%2Caps%2C86&sr=8-3) -->
 <!-- - [burns - security power tools](https://www.amazon.it/Security-Power-Tools-Bryan-Burns/dp/0596009631/ref=sr_1_3?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GIEBHA5PPG77&keywords=Security+Power+Tools&qid=1656235075&sprefix=security+power+tools%2Caps%2C95&sr=8-3) -->
