@@ -1,6 +1,6 @@
 # Notes by subject
 
-- [Timetable](orario.md)
+#### [Timetable](orario.md)
 
 <!-- -->
 

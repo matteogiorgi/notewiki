@@ -1,4 +1,4 @@
-# Appunti [*Elementi di calcolabilità e complessità*](http://pages.di.unipi.it/degano/)
+# Appunti [*Elementi di calcolabilità e complessità 2022*](http://pages.di.unipi.it/degano/)
 
 
 ## Dispense
@@ -10,4 +10,7 @@
 
 # Lezioni
 
-- [ecc220915](ecc220915.md)
+- [ecc0915](ecc0915.md)
+- [ecc0916](../ecc/ecc0916.pdf)
+- [ecc0922](../ecc/ecc0922.pdf)
+- [ecc0923](../ecc/ecc0923.pdf)
