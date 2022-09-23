@@ -2,6 +2,5 @@
 
 - [Personal Library](library.md)
 - [Extra Library](books.md)
-- [Future Books](purchases.md)
-- [Lezioni UniPi](notes.md)
+- [Unipi lectures](notes.md)
 - [More Notewiki](extra.md)

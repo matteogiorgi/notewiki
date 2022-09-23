@@ -16,3 +16,11 @@
 - [Wallwork - English for academic research: grammar exercise](https://mega.nz/file/sgp3lIpZ#fQWBV1JF1dnTmjQmvJuLaKGEAItea2h0JFx5RS2v7wQ)
 - [Wallwork - English for academic research: vocabulary exercise](https://mega.nz/file/phZGUQ6I#OW5LmnUtlURakQIdDHvrcdkHOEv93oFt-DpMwOxNDy8)
 - [Wallwork - English for academic CVs, resumes and online profiles](https://mega.nz/file/I1ByQbAS#IByQGD8shQS6skdQTOoWG682X4hQLyk5DXO-51WoHzk)
+
+
+
+
+# Even more books
+
+- [orourke - computational geometry in c](https://www.amazon.it/Computational-Geometry-C-Joseph-ORourke/dp/0521649765/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NJXAPRALDE3Z&keywords=computational+geometry&qid=1641080420&sprefix=computational+geometry%2Caps%2C110&sr=8-2)
+- [nielsen - quantum computation and quantum information](https://www.amazon.it/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=DVUD0X0PQQ4D&keywords=Quantum+Computation+and+Quantum+Information&qid=1661648008&sprefix=quantum+computation+and+quantum+information%2Caps%2C115&sr=8-1)

@@ -1,5 +1,8 @@
 # Notes by subject
 
-- [Orario](orario.md)
-- [Appunti Reti](reti.md)
-- [Appunti Calcolabilità](ecc.md)
+- [Timetable](orario.md)
+
+<!-- -->
+
+- [Computability and complexity](ecc.md)
+- [Computer networking](reti.md)

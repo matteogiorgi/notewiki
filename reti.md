@@ -1,4 +1,4 @@
-# Appunti [*Reti di calcolatori e laboratorio*](https://elearning.di.unipi.it/course/view.php?id=257)
+# Appunti [*Reti di calcolatori e laboratorio 2021*](https://elearning.di.unipi.it/course/view.php?id=257)
 
 - [programma](programma.md)
 
@@ -20,6 +20,12 @@
 - [orali 26 luglio](reti0726.md)
 
 
-## Lab
+## Laboratorio
 
-- [Java API](file:///usr/share/doc/openjdk-8-doc/api/allclasses-frame.html)
+- [Java API](file:///usr/share/doc/default-jdk-doc/api/allclasses.html)
+
+
+## Nuovo ordinamento
+
+- [reti 2022](https://elearning.di.unipi.it/course/view.php?id=312)
+- [lab 2022](https://elearning.di.unipi.it/course/view.php?id=311)
