@@ -10,7 +10,5 @@
 
 # Lezioni
 
-- [ecc0915](ecc0915.md)
-- [ecc0916](../ecc/ecc0916.pdf)
-- [ecc0922](../ecc/ecc0922.pdf)
-- [ecc0923](../ecc/ecc0923.pdf)
+- [introduzione corso](ecc0915.md)
+- [appunti xournal](https://mega.nz/folder/1wYU0AgJ#t1EZ4PZQMBLRn0XN_AsLKg)
