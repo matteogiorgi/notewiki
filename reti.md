@@ -23,6 +23,7 @@
 ## Laboratorio
 
 - [Java API](file:///usr/share/doc/default-jdk-doc/api/allclasses.html)
+- Lock implicita vs lock esplicita (reentrant lock)
 
 
 ## Nuovo ordinamento
