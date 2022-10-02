@@ -24,6 +24,7 @@
 
 - [Orourke - Computational geometry in c](https://www.amazon.it/Computational-Geometry-C-Joseph-ORourke/dp/0521649765/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NJXAPRALDE3Z&keywords=computational+geometry&qid=1641080420&sprefix=computational+geometry%2Caps%2C110&sr=8-2)
 - [McDowell - Cracking the coding interview](https://www.amazon.it/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?keywords=cracking+the+coding+interview&qid=1664663524&qu=eyJxc2MiOiIwLjk5IiwicXNhIjoiMC4yMCIsInFzcCI6IjAuMTQifQ%3D%3D&sprefix=craking+%2Caps%2C101&sr=8-1)
+- [Baier - Princicles of model checking](https://www.amazon.it/Principles-Model-Checking-Christel-Baier/dp/026202649X/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2CP47A3XB2UJA&keywords=Principles+of+Model+Checking&qid=1664704451&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=principles+of+model+checking%2Caps%2C90&sr=8-1)
 
 
 
