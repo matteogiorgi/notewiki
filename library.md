@@ -1,7 +1,7 @@
-# Digital Portable Library
+# [Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 
 
-## Operating systems
+## [Operating systems]()
 
 - [Dusseau - Operating systems](https://mega.nz/file/B9IG2BIL#VmyVZ9HdtVi2_opATWZx81Ew0G9cPOJeDJTjG551W74)
 - [Bryant - Computer systems, a programmer's perspective](https://mega.nz/file/l8Q31IRY#W6Xg0SQwTo1ajt2Q1KGgLqUIIKAB_3Tc8FVW6AVy7TQ)
@@ -9,7 +9,7 @@
 - [Bresnahan - LPIC-2 study guide](https://mega.nz/file/o8wnXDQK#B-RWOUy6Vr6gDAgRm2_66WEVK2fVuPv-Lan9G5B_0qE)
 
 
-## Computer networks
+## [Computer networks]()
 
 - [Stevens - TCP/IP illustrated, the protocols (vol.1)](nobook.jpg)
 - [Stevens - TCP/IP illustrated, the implementation (vol.2)](nobook.jpg)
@@ -25,7 +25,7 @@
 - [Harold - Java network programming](https://mega.nz/file/MwwxyCzJ#5fO9MQgdSj2JjjA2Y7aH0uZd7DjXlow1LcwaDSXuA5w)
 
 
-## Algorithms & Data structures
+## [Algorithms & Data structures]()
 
 - [Knuth - The art of computer programmig, fundamental algorithms (vol.1)](nobook.jpg)
 - [Knuth - The art of computer programmig, semenumerical algorithms (vol.2)](nobook.jpg)
@@ -42,13 +42,13 @@
 - [Okasaki - Purely functional data structures](https://mega.nz/file/A8wnkRia#gfCRhv6LwDgyxBTRcdIz96PDhXvRFgeEN8fpTa6MM44)
 
 
-## Competitive programming
+## [Competitive programming]()
 
 - [Laaksonen - Guide to competitive programming](https://mega.nz/file/9sAz1BzL#3c5ukLITOo7a80bTjPrVIKlUwJkmiZYSyJ5csVk4nTo)
 - [Rossi - Programming interview problems](https://mega.nz/file/Ik4BBJTJ#Z6jaq6q49XAlujklbm4CIsAbMlKi8V1-pop37bnxirg)
 
 
-## AI & Machine learning
+## [AI & Machine learning]()
 
 - [Ertel - Introduction to artificial intelligence](https://mega.nz/file/5goAlIQJ#U9RvsgyS-jYCztdiz_-4tjSmlKtXGDvdiw5S5PsC6b8)
 - [Hastie - The elements of statistical learning](https://mega.nz/file/5oBSBIja#6V_XwVHW7CySvXS7B1jCew7JEMgBQx72_dr-xXJLhmU)
@@ -62,12 +62,12 @@
 - [Russel - Artificial intelligence, a modern approach](https://mega.nz/file/ohACjRLS#_BsX0cUMa593Z0O8264h9lDsWAE8mQuHxKBvd4vKz8U)
 
 
-## Programming languages
+## [Programming languages]()
 
 - [Pierce - Types and programming languages](https://mega.nz/file/x4ZFjIxb#Ca6TDQ-8dYAYK2NzbYk9quOcfDe0vWIkqaFmc5rPC-U)
 
 
-## Haskell
+## [Haskell]()
 
 - [Bird - Thinking functionally with Haskell](https://mega.nz/file/E0x2haSC#sgBefYUyIxZaMy1aLGh5ltIJ5nqJ_dxYTypvDZp7gO4)
 - [Bird - Algorithm design with Haskell](https://mega.nz/file/t1hSGbwa#jnxSv9ycT7HU5YFRXiZ0LVxa4VuX8WfF3ocQ-m6u4vo)
@@ -79,7 +79,7 @@
 - [Whitington - Haskell from the very beginning](nobook.jpg)
 
 
-## Go
+## [Go]()
 
 - [Donovan - The Go programming language](https://mega.nz/file/R8hyAIib#NsJ1Sw9L8yRHrY_AgCCTB1qaGtrizgZFdrWG6hHRDCM)
 - [Bodner - Learning Go](https://mega.nz/file/08JEXKyS#5tDJDKV9AZ5wWHJZ4Ye2u068COHLLuj7GRfYruEohUU)
@@ -87,12 +87,12 @@
 - [Buday - Concurrency on Go](https://mega.nz/file/A0RlVBZY#KbeR-8XTlTciFEjkfRZmq91qolz8kx_fv5O0QhOuf20)
 
 
-## Web frameworks
+## [Web frameworks]()
 
 - [Snoyman - Developing web apps with Haskell and Yesod](https://mega.nz/file/1lJ3BShD#eGLfh3We73WfrvT8FiOn9D96p4QPvFIRX8MuSDwE2_E)
 
 
-## Fisica
+## [Fisica]()
 
 - [Kittel - La fisica di Berkeley, meccanica (vol.1)](https://mega.nz/file/s4oCyKzA#nmetE1syRQLoqyDaHF7m6XIdUFHSQreovNSxIpcCe2s)
 - [Purcell - La fisica di Berkeley, elettricità e magnetismo (vol.2)](nobook.jpg)
