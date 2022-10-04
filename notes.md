@@ -3,6 +3,7 @@
 
 - [Computability and complexity](ecc.md)
 - [Computer networking](reti.md)
+- [Software validation and verification](svv.md)
 
 <!-- -->
 
