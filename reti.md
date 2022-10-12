@@ -1,4 +1,4 @@
-# Appunti [*Reti di calcolatori e laboratorio 2021*](https://elearning.di.unipi.it/course/view.php?id=257)
+# Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
 
 - [programma](programma.md)
 

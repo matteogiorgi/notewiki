@@ -5,6 +5,10 @@
 - [Computer networking](reti.md)
 - [Software validation and verification](svv.md)
 
-<!-- -->
 
-##### [Timetable](orario.md)
+
+
+## Timetables
+
+- [Classrooms](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=63223a029f080a0aab032afc)
+- [My courses](orario.md)
