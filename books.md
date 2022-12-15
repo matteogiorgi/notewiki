@@ -11,19 +11,22 @@
 - [Steel - Black hat Go](https://mega.nz/file/whpywIIb#XqjQOpmTClRQN20pep7lfF-6J0Ib2SwrBYDchl2y_xU)
 - [Sanders - Practical packet analysis](https://mega.nz/file/UwQRxBDZ#mEv72u4jESMCIQ41ArhDr5tLNffVpAci84r3Lg5aDgQ)
 - [Wallwork - English for writing research papers](https://mega.nz/file/J8wUgZyB#OhUfCao8czpx87MrmshH86qqIEd6d6qylylbKORmHOw)
-- [Wallwork - English for academic research: grammar usage and style](https://mega.nz/file/F8RCgICL#A92gSt387l6ud923TwPthTk5_IRIrI0IK74EBvlbHAQ)
-- [Wallwork - English for academic research: writing exercise](https://mega.nz/file/gpBjWQBD#_q99oZ_vsYflcz7BeLOhLrPCL1KAHbNwrC6zdOHovuA)
-- [Wallwork - English for academic research: grammar exercise](https://mega.nz/file/sgp3lIpZ#fQWBV1JF1dnTmjQmvJuLaKGEAItea2h0JFx5RS2v7wQ)
-- [Wallwork - English for academic research: vocabulary exercise](https://mega.nz/file/phZGUQ6I#OW5LmnUtlURakQIdDHvrcdkHOEv93oFt-DpMwOxNDy8)
-- [Wallwork - English for academic CVs, resumes and online profiles](https://mega.nz/file/I1ByQbAS#IByQGD8shQS6skdQTOoWG682X4hQLyk5DXO-51WoHzk)
 
 
 
 
-# Even more books
+## Newcomers
 
-- [Orourke - Computational geometry in c](https://www.amazon.it/Computational-Geometry-C-Joseph-ORourke/dp/0521649765/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=NJXAPRALDE3Z&keywords=computational+geometry&qid=1641080420&sprefix=computational+geometry%2Caps%2C110&sr=8-2)
+- [Nystrom - Crafting interpreters](https://www.amazon.it/Crafting-Interpreters-Robert-Nystrom/dp/0990582930/ref=rvi_sccl_6/260-3303302-6766648?pd_rd_w=Gxztw&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=89703B77RCEB96N1V8J4&pd_rd_wg=BNtpw&pd_rd_r=8b11a67a-149f-492f-abbb-e3444076d250&pd_rd_i=0990582930&psc=1)
+- [Domkin - Programming algorithms in lisp](https://www.amazon.it/Programming-Algorithms-Lisp-Efficient-Programs/dp/1484264274/ref=rvi_sccl_7/260-3303302-6766648?pd_rd_w=Gxztw&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=89703B77RCEB96N1V8J4&pd_rd_wg=BNtpw&pd_rd_r=8b11a67a-149f-492f-abbb-e3444076d250&pd_rd_i=1484264274&psc=1)
+- [Lospinoso - C++ crash course](https://www.amazon.it/C-Crash-Course-Josh-Lospinoso/dp/1593278888/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2GGM7URAU5T96&keywords=C%2B%2B+Crash+Course&qid=1669497909&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=c%2B%2B+crash+course%2Cstripbooks%2C91&sr=1-1)
+- [Wang - Formal methods in computer science](https://www.amazon.it/Formal-Methods-Computer-Science-Jiacun/dp/1498775322/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1JSF9547UHB66&keywords=Formal+Methods+in+Computer+Science&qid=1670575829&sprefix=formal+methods+in+computer+science%2Caps%2C111&sr=8-1)
 
+<!-- -->
 
-
-<!-- - [Nielsen - Quantum computation and quantum information](https://www.amazon.it/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=DVUD0X0PQQ4D&keywords=Quantum+Computation+and+Quantum+Information&qid=1661648008&sprefix=quantum+computation+and+quantum+information%2Caps%2C115&sr=8-1) -->
+<!-- - [Flanagan - Javascript the definitive guide](https://www.amazon.it/Javascript-Definitive-Most-used-Programming-Language/dp/1491952024/ref=rvi_sccl_13/260-3303302-6766648?pd_rd_w=XBxrj&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=564BJE3P0TSHSW3B7DHZ&pd_rd_wg=NAkxL&pd_rd_r=c6d2f61d-b995-4fef-b52f-275eedfd6cf3&pd_rd_i=1491952024&psc=1) -->
+<!-- - [Scott - Javascript cookbook](https://www.amazon.it/Javascript-Cookbook-Programming-Adam-Scott/dp/1492055751/ref=rvi_sccl_12/260-3303302-6766648?pd_rd_w=XBxrj&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=564BJE3P0TSHSW3B7DHZ&pd_rd_wg=NAkxL&pd_rd_r=c6d2f61d-b995-4fef-b52f-275eedfd6cf3&pd_rd_i=1492055751&psc=1) -->
+<!-- - [Sitnikovski - Gentle introduction to dependent types with idris](https://www.amazon.it/Gentle-Introduction-Dependent-Types-Idris/dp/1723139416/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1W6GQGJG3VQGJ&keywords=Gentle+Introduction+to+Dependent+Types+with+Idris&qid=1669478504&qu=eyJxc2MiOiIwLjMzIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=gentle+introduction+to+dependent+types+with+idris%2Caps%2C313&sr=8-1) -->
+<!-- - [Sitnikovski - Introducing software specitication with Dafne language](https://www.amazon.it/Introducing-Software-Verification-Dafny-Language/dp/1484279778/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=22MFJ7VSG6S8G&keywords=Introducing+Software+Verification+with+Dafny+Language%3A+Proving+Program+Correctness+Boro+Sitnikovski&qid=1669477373&qu=eyJxc2MiOiItMC4wMCIsInFzYSI6IjAuMDAiLCJxc3AiOiIwLjAwIn0%3D&s=books&sprefix=introducing+software+verification+with+dafny+language+proving+program+correctness+boro+sitnikovski%2Cstripbooks%2C93&sr=1-1) -->
+<!-- - [Debarros - Practical SQL](https://www.amazon.it/Practical-SQL-Beginners-Guide-Storytelling/dp/1718501064/ref=sr_1_23?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=35A9UL88AHOEQ&keywords=sql&qid=1669322460&qu=eyJxc2MiOiI0LjcyIiwicXNhIjoiNC4wNiIsInFzcCI6IjMuNjMifQ%3D%3D&s=books&sprefix=sql%2Cstripbooks%2C111&sr=1-23) -->
+<!-- - [Shotts - The linux command line](https://www.amazon.it/Linux-Command-Line-Complete-Introduction/dp/1593279523/?_encoding=UTF8&pd_rd_w=20JXc&content-id=amzn1.sym.abaff917-550a-45f4-9ebd-fc02bd29c0db&pf_rd_p=abaff917-550a-45f4-9ebd-fc02bd29c0db&pf_rd_r=2HCT7AK3G0NS8MQ60W64&pd_rd_wg=AQ9mh&pd_rd_r=d62b9d78-99c7-4aea-8bb3-a0a987bba2b1&ref_=pd_gw_ci_mcx_mr_hp_d) -->

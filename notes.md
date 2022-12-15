@@ -4,6 +4,7 @@
 - [Computability and complexity](ecc.md)
 - [Computer networking](reti.md)
 - [Software validation and verification](svv.md)
+- [Laboratorio 1](lab1.md)
 
 
 

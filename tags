@@ -1,0 +1,339 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/geoteo/notewiki/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+AI &amp; Machine learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="">AI &amp; Machine learning<\/a><\/h2>$/;"	i
+ANDREA CORRADINI - Monday, 29 March 2021, 12:59	tesi_corradini.md	/^##### ANDREA CORRADINI - Monday, 29 March 2021, 12:59$/;"	T	chapter:Studio del type system di Rust
+Algorithms &amp; Data structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="">Algorithms &amp; Data structures<\/a><\/h2>$/;"	i
+Algoritmi per la gestione di funzioni virtuali di rete	pandoc/tesi_paganelli.html	/^<h1 id="algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete">Algoritmi per la gestione di fun/;"	h
+Algoritmi per la gestione di funzioni virtuali di rete	tesi_paganelli.md	/^# Algoritmi per la gestione di funzioni virtuali di rete$/;"	c
+Appunti	ecc.md	/^## Appunti$/;"	s	chapter:[Elementi di calcolabilità e complessità](http://pages.di.unipi.it/degano/)
+Appunti	pandoc/ecc.html	/^<h2 id="appunti">Appunti<\/h2>$/;"	i
+Competitive programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="">Competitive programming<\/a><\/h2>$/;"	i
+Computer networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="">Computer networks<\/a><\/h2>$/;"	i
+Contesto	pandoc/tesi_corradini.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	i
+Contesto	pandoc/tesi_paganelli.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	i
+Contesto	tesi_corradini.md	/^## Contesto$/;"	s	chapter:Studio del type system di Rust
+Contesto	tesi_paganelli.md	/^## Contesto$/;"	s	chapter:Algoritmi per la gestione di funzioni virtuali di rete
+Definizione di algoritmo (ipotesi classiche del modello di calcolo)	pandoc/ecc220915.html	/^<h2 id="definizione-di-algoritmo-ipotesi-classiche-del-modello-di-calcolo">Definizione di algori/;"	i
+Definizione di algoritmo (ipotesi classiche del modello)	ecc0915.md	/^## Definizione di algoritmo (ipotesi classiche del modello)$/;"	s	chapter:Giovedì 15 settembre 2022
+Definizione di algoritmo (ipotesi classiche del modello)	pandoc/ecc0915.html	/^<h2 id="definizione-di-algoritmo-ipotesi-classiche-del-modello">Definizione di algoritmo (ipotes/;"	i
+Digital Portable Library	pandoc/library.html	/^<h1 id="digital-portable-library"><a href="https:\/\/mega.nz\/folder\/U5Q2zSAD#StqXExKo9nuZWuZ5o/;"	h
+Dispense	ecc.md	/^## Dispense$/;"	s	chapter:[Elementi di calcolabilità e complessità](http://pages.di.unipi.it/degano/)
+Dispense	pandoc/ecc.html	/^<h2 id="dispense">Dispense<\/h2>$/;"	i
+Dispense	pandoc/reti.html	/^<h2 id="dispense">Dispense<\/h2>$/;"	i
+Dispense	reti.md	/^## Dispense$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
+Domande orale	pandoc/reti.html	/^<h2 id="domande-orale">Domande orale<\/h2>$/;"	i
+Domande orale	reti.md	/^## Domande orale$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
+Elementi di calcolabilità e complessità	pandoc/ecc.html	/^<h1 id="elementi-di-calcolabilità-e-complessità"><a href="http:\/\/pages.di.unipi.it\/degano\//;"	h
+Even more books	pandoc/purchases.html	/^<h1 id="even-more-books">Even more books<\/h1>$/;"	h
+Even more books	purchases.md	/^# Even more books$/;"	c
+FEDERICA PAGANELLI - Friday, 4 March 2022, 09:41	tesi_paganelli.md	/^##### FEDERICA PAGANELLI - Friday, 4 March 2022, 09:41$/;"	T	chapter:Algoritmi per la gestione di funzioni virtuali di rete
+Fisica	pandoc/library.html	/^<h2 id="fisica"><a href="">Fisica<\/a><\/h2>$/;"	i
+Giovedì 15 settembre 2022	ecc0915.md	/^# Giovedì 15 settembre 2022$/;"	c
+Giovedì 15 settembre 2022	pandoc/ecc0915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	h
+Giovedì 15 settembre 2022	pandoc/ecc220915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	h
+Go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	i
+Haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	i
+Here & there	extra.md	/^# Here & there$/;"	c
+Here &amp; there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	h
+Introduzione al corso	ecc0915.md	/^## Introduzione al corso$/;"	s	chapter:Giovedì 15 settembre 2022
+Introduzione al corso	pandoc/ecc0915.html	/^<h2 id="introduzione-al-corso">Introduzione al corso<\/h2>$/;"	i
+Laboratorio	pandoc/reti.html	/^<h2 id="laboratorio">Laboratorio<\/h2>$/;"	i
+Laboratorio	reti.md	/^## Laboratorio$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
+Laboratorio (25)	pandoc/reti0726.html	/^<h3 id="laboratorio-25">Laboratorio (25)<\/h3>$/;"	j
+Laboratorio (25)	reti0726.md	/^### Laboratorio (25)$/;"	S	section:Orali del 26 luglio 2022 (Pomeriggio)""Orale 1 - 14:00
+Laboratorio 1	lab1.md	/^# Laboratorio 1$/;"	c
+Laboratorio 1	pandoc/lab1.html	/^<h1 id="laboratorio-1">Laboratorio 1<\/h1>$/;"	h
+Link	pandoc/assets/link2html.lua	/^function Link(el)$/;"	f
+MSc Computer Science - Negotiated Learning	pandoc/ucd.html	/^<h1 id="msc-computer-science---negotiated-learning"><a href="https:\/\/www.ucd.ie\/cs\/study\/po/;"	h
+MathJax-script	pandoc/DNS.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/FTP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/HTTP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/ICMP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/IP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/SMTP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/TCP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/UDP.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/assets/header.html	/^<script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mml-/;"	I
+MathJax-script	pandoc/books.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/delega.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/ecc.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/ecc0915.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/ecc220915.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/extra.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/index.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/irish_msc.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/lab1.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/lettera_fabio.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/lettera_susanna.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/lettere.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/library.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/masters.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/metriche.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/notes.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/orario.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/programma.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/purchases.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/reti.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/reti0610.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/reti0629.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/reti0720.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/reti0726.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/router.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/svv.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/tables.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/tesi.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/tesi_corradini.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/tesi_paganelli.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/ucd.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+More books	books.md	/^# More books$/;"	c
+More books	pandoc/books.html	/^<h1 id="more-books">More books<\/h1>$/;"	h
+Newcomers	books.md	/^## Newcomers$/;"	s	chapter:More books
+Newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	i
+Notes by subject	notes.md	/^# Notes by subject$/;"	c
+Notes by subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	h
+Notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki">Notewiki<\/a><\/h1>$/;"	h
+Nuovo ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	i
+Nuovo ordinamento	reti.md	/^## Nuovo ordinamento$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
+Obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	i
+Obiettivo	pandoc/tesi_paganelli.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	i
+Obiettivo	tesi_corradini.md	/^## Obiettivo$/;"	s	chapter:Studio del type system di Rust
+Obiettivo	tesi_paganelli.md	/^## Obiettivo$/;"	s	chapter:Algoritmi per la gestione di funzioni virtuali di rete
+Operating systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="">Operating systems<\/a><\/h2>$/;"	i
+Orale 1 - 11:00 (18)	pandoc/reti0610.html	/^<h2 id="orale-1---1100-18">Orale 1 - 11:00 (18)<\/h2>$/;"	i
+Orale 1 - 11:00 (18)	reti0610.md	/^## Orale 1 - 11:00 (18)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 1 - 11:05 (30)	pandoc/reti0629.html	/^<h2 id="orale-1---1105-30">Orale 1 - 11:05 (30)<\/h2>$/;"	i
+Orale 1 - 11:05 (30)	reti0629.md	/^## Orale 1 - 11:05 (30)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 1 - 14:00	pandoc/reti0726.html	/^<h2 id="orale-1---1400">Orale 1 - 14:00<\/h2>$/;"	i
+Orale 1 - 14:00	reti0726.md	/^## Orale 1 - 14:00$/;"	s	chapter:Orali del 26 luglio 2022 (Pomeriggio)
+Orale 2 - 09:45 (25)	pandoc/reti0720.html	/^<h2 id="orale-2---0945-25">Orale 2 - 09:45 (25)<\/h2>$/;"	i
+Orale 2 - 09:45 (25)	reti0720.md	/^## Orale 2 - 09:45 (25)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 2 - 10:00 (26)	pandoc/reti0726.html	/^<h2 id="orale-2---1000-26">Orale 2 - 10:00 (26)<\/h2>$/;"	i
+Orale 2 - 10:00 (26)	reti0726.md	/^## Orale 2 - 10:00 (26)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 2 - 11:30 (30L)	pandoc/reti0629.html	/^<h2 id="orale-2---1130-30l">Orale 2 - 11:30 (30L)<\/h2>$/;"	i
+Orale 2 - 11:30 (30L)	reti0629.md	/^## Orale 2 - 11:30 (30L)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 2 - 11:50 (23)	pandoc/reti0610.html	/^<h2 id="orale-2---1150-23">Orale 2 - 11:50 (23)<\/h2>$/;"	i
+Orale 2 - 11:50 (23)	reti0610.md	/^## Orale 2 - 11:50 (23)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 3 - 10:15 (27)	pandoc/reti0720.html	/^<h2 id="orale-3---1015-27">Orale 3 - 10:15 (27)<\/h2>$/;"	i
+Orale 3 - 10:15 (27)	reti0720.md	/^## Orale 3 - 10:15 (27)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 3 - 10:25 (23)	pandoc/reti0726.html	/^<h2 id="orale-3---1025-23">Orale 3 - 10:25 (23)<\/h2>$/;"	i
+Orale 3 - 10:25 (23)	reti0726.md	/^## Orale 3 - 10:25 (23)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 3 - 11:50 (22)	pandoc/reti0629.html	/^<h2 id="orale-3---1150-22">Orale 3 - 11:50 (22)<\/h2>$/;"	i
+Orale 3 - 11:50 (22)	reti0629.md	/^## Orale 3 - 11:50 (22)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 3 - 12:10 (24)	pandoc/reti0610.html	/^<h2 id="orale-3---1210-24">Orale 3 - 12:10 (24)<\/h2>$/;"	i
+Orale 3 - 12:10 (24)	reti0610.md	/^## Orale 3 - 12:10 (24)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 4 - 10:40 (23)	pandoc/reti0720.html	/^<h2 id="orale-4---1040-23">Orale 4 - 10:40 (23)<\/h2>$/;"	i
+Orale 4 - 10:40 (23)	reti0720.md	/^## Orale 4 - 10:40 (23)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 4 - 10:45 (26)	pandoc/reti0726.html	/^<h2 id="orale-4---1045-26">Orale 4 - 10:45 (26)<\/h2>$/;"	i
+Orale 4 - 10:45 (26)	reti0726.md	/^## Orale 4 - 10:45 (26)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 4 - 12:10 (~)	pandoc/reti0629.html	/^<h2 id="orale-4---1210">Orale 4 - 12:10 (~)<\/h2>$/;"	i
+Orale 4 - 12:10 (~)	reti0629.md	/^## Orale 4 - 12:10 (~)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 4 - 12:35 (28)	pandoc/reti0610.html	/^<h2 id="orale-4---1235-28">Orale 4 - 12:35 (28)<\/h2>$/;"	i
+Orale 4 - 12:35 (28)	reti0610.md	/^## Orale 4 - 12:35 (28)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 5 - 11:00 (30)	pandoc/reti0720.html	/^<h2 id="orale-5---1100-30">Orale 5 - 11:00 (30)<\/h2>$/;"	i
+Orale 5 - 11:00 (30)	reti0720.md	/^## Orale 5 - 11:00 (30)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 5 - 11:11 (19)	pandoc/reti0726.html	/^<h2 id="orale-5---1111-19">Orale 5 - 11:11 (19)<\/h2>$/;"	i
+Orale 5 - 11:11 (19)	reti0726.md	/^## Orale 5 - 11:11 (19)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 5 - 12:30 (~)	pandoc/reti0629.html	/^<h2 id="orale-5---1230">Orale 5 - 12:30 (~)<\/h2>$/;"	i
+Orale 5 - 12:30 (~)	reti0629.md	/^## Orale 5 - 12:30 (~)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 5 - 13:00 (30L)	pandoc/reti0610.html	/^<h2 id="orale-5---1300-30l">Orale 5 - 13:00 (30L)<\/h2>$/;"	i
+Orale 5 - 13:00 (30L)	reti0610.md	/^## Orale 5 - 13:00 (30L)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 6 - 11:30 (19)	pandoc/reti0726.html	/^<h2 id="orale-6---1130-19">Orale 6 - 11:30 (19)<\/h2>$/;"	i
+Orale 6 - 11:30 (19)	reti0726.md	/^## Orale 6 - 11:30 (19)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 6 - 11:35 (30)	pandoc/reti0720.html	/^<h2 id="orale-6---1135-30">Orale 6 - 11:35 (30)<\/h2>$/;"	i
+Orale 6 - 11:35 (30)	reti0720.md	/^## Orale 6 - 11:35 (30)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 6 - 12:40 (~)	pandoc/reti0629.html	/^<h2 id="orale-6---1240">Orale 6 - 12:40 (~)<\/h2>$/;"	i
+Orale 6 - 12:40 (~)	reti0629.md	/^## Orale 6 - 12:40 (~)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 6 - 13:15 (30)	pandoc/reti0610.html	/^<h2 id="orale-6---1315-30">Orale 6 - 13:15 (30)<\/h2>$/;"	i
+Orale 6 - 13:15 (30)	reti0610.md	/^## Orale 6 - 13:15 (30)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 7 - 12:00 (22)	pandoc/reti0720.html	/^<h2 id="orale-7---1200-22">Orale 7 - 12:00 (22)<\/h2>$/;"	i
+Orale 7 - 12:00 (22)	reti0720.md	/^## Orale 7 - 12:00 (22)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 7 - 12:00 (25)	pandoc/reti0720.html	/^<h2 id="orale-7---1200-25">Orale 7 - 12:00 (25)<\/h2>$/;"	i
+Orale 7 - 12:00 (25)	reti0720.md	/^## Orale 7 - 12:00 (25)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 7 - 12:00 (26)	pandoc/reti0726.html	/^<h2 id="orale-7---1200-26">Orale 7 - 12:00 (26)<\/h2>$/;"	i
+Orale 7 - 12:00 (26)	reti0726.md	/^## Orale 7 - 12:00 (26)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 7 - 12:55 (19)	pandoc/reti0629.html	/^<h2 id="orale-7---1255-19">Orale 7 - 12:55 (19)<\/h2>$/;"	i
+Orale 7 - 12:55 (19)	reti0629.md	/^## Orale 7 - 12:55 (19)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 7 - 13:35 (19)	pandoc/reti0610.html	/^<h2 id="orale-7---1335-19">Orale 7 - 13:35 (19)<\/h2>$/;"	i
+Orale 7 - 13:35 (19)	reti0610.md	/^## Orale 7 - 13:35 (19)$/;"	s	chapter:Orali del 10 giugno 2022
+Orale 8 - 12:25 (26)	pandoc/reti0726.html	/^<h2 id="orale-8---1225-26">Orale 8 - 12:25 (26)<\/h2>$/;"	i
+Orale 8 - 12:25 (26)	reti0726.md	/^## Orale 8 - 12:25 (26)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 8 - 14:05 (23)	pandoc/reti0629.html	/^<h2 id="orale-8---1405-23">Orale 8 - 14:05 (23)<\/h2>$/;"	i
+Orale 8 - 14:05 (23)	reti0629.md	/^## Orale 8 - 14:05 (23)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 8 - 15:50 (20)	pandoc/reti0720.html	/^<h2 id="orale-8---1550-20">Orale 8 - 15:50 (20)<\/h2>$/;"	i
+Orale 8 - 15:50 (20)	reti0720.md	/^## Orale 8 - 15:50 (20)$/;"	s	chapter:Orali del 20 luglio 2022
+Orale 9 - 12:50 (18)	pandoc/reti0726.html	/^<h2 id="orale-9---1250-18">Orale 9 - 12:50 (18)<\/h2>$/;"	i
+Orale 9 - 12:50 (18)	reti0726.md	/^## Orale 9 - 12:50 (18)$/;"	s	chapter:Orali del 26 luglio 2022 (Mattina)
+Orale 9 - 14:40 (23)	pandoc/reti0629.html	/^<h2 id="orale-9---1440-23">Orale 9 - 14:40 (23)<\/h2>$/;"	i
+Orale 9 - 14:40 (23)	reti0629.md	/^## Orale 9 - 14:40 (23)$/;"	s	chapter:Orali del 29 giugno 2022
+Orale 9 - 16:20 (29)	pandoc/reti0720.html	/^<h2 id="orale-9---1620-29">Orale 9 - 16:20 (29)<\/h2>$/;"	i
+Orale 9 - 16:20 (29)	reti0720.md	/^## Orale 9 - 16:20 (29)$/;"	s	chapter:Orali del 20 luglio 2022
+Orali del 10 giugno 2022	pandoc/reti0610.html	/^<h1 id="orali-del-10-giugno-2022">Orali del 10 giugno 2022<\/h1>$/;"	h
+Orali del 10 giugno 2022	reti0610.md	/^# Orali del 10 giugno 2022$/;"	c
+Orali del 20 luglio 2022	pandoc/reti0720.html	/^<h1 id="orali-del-20-luglio-2022">Orali del 20 luglio 2022<\/h1>$/;"	h
+Orali del 20 luglio 2022	reti0720.md	/^# Orali del 20 luglio 2022$/;"	c
+Orali del 26 luglio 2022 (Mattina)	pandoc/reti0726.html	/^<h1 id="orali-del-26-luglio-2022-mattina">Orali del 26 luglio 2022 (Mattina)<\/h1>$/;"	h
+Orali del 26 luglio 2022 (Mattina)	reti0726.md	/^# Orali del 26 luglio 2022 (Mattina)$/;"	c
+Orali del 26 luglio 2022 (Pomeriggio)	pandoc/reti0726.html	/^<h1 id="orali-del-26-luglio-2022-pomeriggio">Orali del 26 luglio 2022 (Pomeriggio)<\/h1>$/;"	h
+Orali del 26 luglio 2022 (Pomeriggio)	reti0726.md	/^# Orali del 26 luglio 2022 (Pomeriggio)$/;"	c
+Orali del 29 giugno 2022	pandoc/reti0629.html	/^<h1 id="orali-del-29-giugno-2022">Orali del 29 giugno 2022<\/h1>$/;"	h
+Orali del 29 giugno 2022	reti0629.md	/^# Orali del 29 giugno 2022$/;"	c
+Orario 2022	orario.md	/^# Orario 2022$/;"	c
+Orario 2022	pandoc/orario.html	/^<h1 id="orario-2022">Orario 2022<\/h1>$/;"	h
+Parte 1	lab1.md	/^## Parte 1$/;"	s	chapter:Laboratorio 1
+Parte 1	pandoc/lab1.html	/^<h2 id="parte-1">Parte 1<\/h2>$/;"	i
+Parte 2	lab1.md	/^## Parte 2$/;"	s	chapter:Laboratorio 1
+Parte 2	pandoc/lab1.html	/^<h2 id="parte-2">Parte 2<\/h2>$/;"	i
+Possible modules	pandoc/ucd.html	/^<h2 id="possible-modules">Possible modules<\/h2>$/;"	i
+Possible modules	ucd.md	/^## Possible modules$/;"	s	chapter:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)
+Programming languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="">Programming languages<\/a><\/h2>$/;"	i
+Referenti	pandoc/tesi_corradini.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	i
+Referenti	pandoc/tesi_paganelli.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	i
+Referenti	tesi_corradini.md	/^## Referenti$/;"	s	chapter:Studio del type system di Rust
+Referenti	tesi_paganelli.md	/^## Referenti$/;"	s	chapter:Algoritmi per la gestione di funzioni virtuali di rete
+Reti di calcolatori e laboratorio (2021, 2022)	pandoc/reti.html	/^<h1 id="reti-di-calcolatori-e-laboratorio-2021-2022">Reti di calcolatori e laboratorio (<a href=/;"	h
+Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))	reti.md	/^# Reti di calcolatori e laboratorio ([2021](https:\/\/elearning.di.unipi.it\/course\/view.php?id/;"	c
+Semester 1	pandoc/ucd.html	/^<h3 id="semester-1">Semester 1<\/h3>$/;"	j
+Semester 1	pandoc/ucd.html	/^<h3 id="semester-1-1">Semester 1<\/h3>$/;"	j
+Semester 1	ucd.md	/^### Semester 1$/;"	S	section:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)""Possible modules
+Semester 1	ucd.md	/^### Semester 1$/;"	S	section:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)""Spare modules
+Semester 2	pandoc/ucd.html	/^<h3 id="semester-2">Semester 2<\/h3>$/;"	j
+Semester 2	pandoc/ucd.html	/^<h3 id="semester-2-1">Semester 2<\/h3>$/;"	j
+Semester 2	ucd.md	/^### Semester 2$/;"	S	section:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)""Possible modules
+Semester 2	ucd.md	/^### Semester 2$/;"	S	section:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)""Spare modules
+Software validation ad verification - Ott.24	pandoc/svv.html	/^<h1 id="software-validation-ad-verification---ott.24">Software validation ad verification - Ott./;"	h
+Software validation ad verification - Ott.24	svv.md	/^# Software validation ad verification - Ott.24$/;"	c
+Spare modules	pandoc/ucd.html	/^<h2 id="spare-modules">Spare modules<\/h2>$/;"	i
+Spare modules	ucd.md	/^## Spare modules$/;"	s	chapter:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)
+Studio del type system di Rust	pandoc/tesi_corradini.html	/^<h1 id="studio-del-type-system-di-rust">Studio del type system di Rust<\/h1>$/;"	h
+Studio del type system di Rust	tesi_corradini.md	/^# Studio del type system di Rust$/;"	c
+Teoria (26)	pandoc/reti0726.html	/^<h3 id="teoria-26">Teoria (26)<\/h3>$/;"	j
+Teoria (26)	reti0726.md	/^### Teoria (26)$/;"	S	section:Orali del 26 luglio 2022 (Pomeriggio)""Orale 1 - 14:00
+Timetables	notes.md	/^## Timetables$/;"	s	chapter:Notes by subject
+Timetables	pandoc/notes.html	/^<h2 id="timetables">Timetables<\/h2>$/;"	i
+Web frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="">Web frameworks<\/a><\/h2>$/;"	i
+[AI & Machine learning]()	library.md	/^## [AI & Machine learning]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Algorithms & Data structures]()	library.md	/^## [Algorithms & Data structures]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Competitive programming]()	library.md	/^## [Competitive programming]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Computer networks]()	library.md	/^## [Computer networks]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)	library.md	/^# [Digital Portable Library](https:\/\/mega.nz\/folder\/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)$/;"	c
+[Elementi di calcolabilità e complessità](http://pages.di.unipi.it/degano/)	ecc.md	/^# [Elementi di calcolabilità e complessità](http:\/\/pages.di.unipi.it\/degano\/)$/;"	c
+[Fisica]()	library.md	/^## [Fisica]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Go]()	library.md	/^## [Go]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Haskell]()	library.md	/^## [Haskell]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)	ucd.md	/^# [MSc Computer Science - Negotiated Learning](https:\/\/www.ucd.ie\/cs\/study\/postgraduate\/nl/;"	c
+[Notewiki](https://github.com/matteogiorgi/notewiki)	README.md	/^# [Notewiki](https:\/\/github.com\/matteogiorgi\/notewiki)$/;"	c
+[Notewiki](https://github.com/matteogiorgi/notewiki)	index.md	/^# [Notewiki](https:\/\/github.com\/matteogiorgi\/notewiki)$/;"	c
+[Operating systems]()	library.md	/^## [Operating systems]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Programming languages]()	library.md	/^## [Programming languages]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Web frameworks]()	library.md	/^## [Web frameworks]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+action	pandoc/assets/link2html.py	/^def action(elem, doc):$/;"	f
+ai-machine-learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="">AI &amp; Machine learning<\/a><\/h2>$/;"	I
+algorithms-data-structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="">Algorithms &amp; Data structures<\/a><\/h2>$/;"	I
+algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete	pandoc/tesi_paganelli.html	/^<h1 id="algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete">Algoritmi per la gestione di fun/;"	I
+andrea-corradini---monday-29-march-2021-1259	pandoc/tesi_corradini.html	/^<h5 id="andrea-corradini---monday-29-march-2021-1259">ANDREA CORRADINI - Monday, 29 March 2021, /;"	I
+appunti	pandoc/ecc.html	/^<h2 id="appunti">Appunti<\/h2>$/;"	I
+competitive-programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="">Competitive programming<\/a><\/h2>$/;"	I
+computer-networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="">Computer networks<\/a><\/h2>$/;"	I
+contesto	pandoc/tesi_corradini.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	I
+contesto	pandoc/tesi_paganelli.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	I
+definizione-di-algoritmo-ipotesi-classiche-del-modello	pandoc/ecc0915.html	/^<h2 id="definizione-di-algoritmo-ipotesi-classiche-del-modello">Definizione di algoritmo (ipotes/;"	I
+definizione-di-algoritmo-ipotesi-classiche-del-modello-di-calcolo	pandoc/ecc220915.html	/^<h2 id="definizione-di-algoritmo-ipotesi-classiche-del-modello-di-calcolo">Definizione di algori/;"	I
+digital-portable-library	pandoc/library.html	/^<h1 id="digital-portable-library"><a href="https:\/\/mega.nz\/folder\/U5Q2zSAD#StqXExKo9nuZWuZ5o/;"	I
+dispense	pandoc/ecc.html	/^<h2 id="dispense">Dispense<\/h2>$/;"	I
+dispense	pandoc/reti.html	/^<h2 id="dispense">Dispense<\/h2>$/;"	I
+domande-orale	pandoc/reti.html	/^<h2 id="domande-orale">Domande orale<\/h2>$/;"	I
+elementi-di-calcolabilità-e-complessità	pandoc/ecc.html	/^<h1 id="elementi-di-calcolabilità-e-complessità"><a href="http:\/\/pages.di.unipi.it\/degano\//;"	I
+even-more-books	pandoc/purchases.html	/^<h1 id="even-more-books">Even more books<\/h1>$/;"	I
+federica-paganelli---friday-4-march-2022-0941	pandoc/tesi_paganelli.html	/^<h5 id="federica-paganelli---friday-4-march-2022-0941">FEDERICA PAGANELLI - Friday, 4 March 2022/;"	I
+fisica	pandoc/library.html	/^<h2 id="fisica"><a href="">Fisica<\/a><\/h2>$/;"	I
+giovedì-15-settembre-2022	pandoc/ecc0915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	I
+giovedì-15-settembre-2022	pandoc/ecc220915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	I
+go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	I
+haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	I
+here-there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	I
+introduzione-al-corso	pandoc/ecc0915.html	/^<h2 id="introduzione-al-corso">Introduzione al corso<\/h2>$/;"	I
+laboratorio	pandoc/reti.html	/^<h2 id="laboratorio">Laboratorio<\/h2>$/;"	I
+laboratorio-1	pandoc/lab1.html	/^<h1 id="laboratorio-1">Laboratorio 1<\/h1>$/;"	I
+laboratorio-25	pandoc/reti0726.html	/^<h3 id="laboratorio-25">Laboratorio (25)<\/h3>$/;"	I
+more-books	pandoc/books.html	/^<h1 id="more-books">More books<\/h1>$/;"	I
+msc-computer-science---negotiated-learning	pandoc/ucd.html	/^<h1 id="msc-computer-science---negotiated-learning"><a href="https:\/\/www.ucd.ie\/cs\/study\/po/;"	I
+newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	I
+notes-by-subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	I
+notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki">Notewiki<\/a><\/h1>$/;"	I
+nuovo-ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	I
+obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
+obiettivo	pandoc/tesi_paganelli.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
+operating-systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="">Operating systems<\/a><\/h2>$/;"	I
+orale-1---1100-18	pandoc/reti0610.html	/^<h2 id="orale-1---1100-18">Orale 1 - 11:00 (18)<\/h2>$/;"	I
+orale-1---1105-30	pandoc/reti0629.html	/^<h2 id="orale-1---1105-30">Orale 1 - 11:05 (30)<\/h2>$/;"	I
+orale-1---1400	pandoc/reti0726.html	/^<h2 id="orale-1---1400">Orale 1 - 14:00<\/h2>$/;"	I
+orale-2---0945-25	pandoc/reti0720.html	/^<h2 id="orale-2---0945-25">Orale 2 - 09:45 (25)<\/h2>$/;"	I
+orale-2---1000-26	pandoc/reti0726.html	/^<h2 id="orale-2---1000-26">Orale 2 - 10:00 (26)<\/h2>$/;"	I
+orale-2---1130-30l	pandoc/reti0629.html	/^<h2 id="orale-2---1130-30l">Orale 2 - 11:30 (30L)<\/h2>$/;"	I
+orale-2---1150-23	pandoc/reti0610.html	/^<h2 id="orale-2---1150-23">Orale 2 - 11:50 (23)<\/h2>$/;"	I
+orale-3---1015-27	pandoc/reti0720.html	/^<h2 id="orale-3---1015-27">Orale 3 - 10:15 (27)<\/h2>$/;"	I
+orale-3---1025-23	pandoc/reti0726.html	/^<h2 id="orale-3---1025-23">Orale 3 - 10:25 (23)<\/h2>$/;"	I
+orale-3---1150-22	pandoc/reti0629.html	/^<h2 id="orale-3---1150-22">Orale 3 - 11:50 (22)<\/h2>$/;"	I
+orale-3---1210-24	pandoc/reti0610.html	/^<h2 id="orale-3---1210-24">Orale 3 - 12:10 (24)<\/h2>$/;"	I
+orale-4---1040-23	pandoc/reti0720.html	/^<h2 id="orale-4---1040-23">Orale 4 - 10:40 (23)<\/h2>$/;"	I
+orale-4---1045-26	pandoc/reti0726.html	/^<h2 id="orale-4---1045-26">Orale 4 - 10:45 (26)<\/h2>$/;"	I
+orale-4---1210	pandoc/reti0629.html	/^<h2 id="orale-4---1210">Orale 4 - 12:10 (~)<\/h2>$/;"	I
+orale-4---1235-28	pandoc/reti0610.html	/^<h2 id="orale-4---1235-28">Orale 4 - 12:35 (28)<\/h2>$/;"	I
+orale-5---1100-30	pandoc/reti0720.html	/^<h2 id="orale-5---1100-30">Orale 5 - 11:00 (30)<\/h2>$/;"	I
+orale-5---1111-19	pandoc/reti0726.html	/^<h2 id="orale-5---1111-19">Orale 5 - 11:11 (19)<\/h2>$/;"	I
+orale-5---1230	pandoc/reti0629.html	/^<h2 id="orale-5---1230">Orale 5 - 12:30 (~)<\/h2>$/;"	I
+orale-5---1300-30l	pandoc/reti0610.html	/^<h2 id="orale-5---1300-30l">Orale 5 - 13:00 (30L)<\/h2>$/;"	I
+orale-6---1130-19	pandoc/reti0726.html	/^<h2 id="orale-6---1130-19">Orale 6 - 11:30 (19)<\/h2>$/;"	I
+orale-6---1135-30	pandoc/reti0720.html	/^<h2 id="orale-6---1135-30">Orale 6 - 11:35 (30)<\/h2>$/;"	I
+orale-6---1240	pandoc/reti0629.html	/^<h2 id="orale-6---1240">Orale 6 - 12:40 (~)<\/h2>$/;"	I
+orale-6---1315-30	pandoc/reti0610.html	/^<h2 id="orale-6---1315-30">Orale 6 - 13:15 (30)<\/h2>$/;"	I
+orale-7---1200-22	pandoc/reti0720.html	/^<h2 id="orale-7---1200-22">Orale 7 - 12:00 (22)<\/h2>$/;"	I
+orale-7---1200-25	pandoc/reti0720.html	/^<h2 id="orale-7---1200-25">Orale 7 - 12:00 (25)<\/h2>$/;"	I
+orale-7---1200-26	pandoc/reti0726.html	/^<h2 id="orale-7---1200-26">Orale 7 - 12:00 (26)<\/h2>$/;"	I
+orale-7---1255-19	pandoc/reti0629.html	/^<h2 id="orale-7---1255-19">Orale 7 - 12:55 (19)<\/h2>$/;"	I
+orale-7---1335-19	pandoc/reti0610.html	/^<h2 id="orale-7---1335-19">Orale 7 - 13:35 (19)<\/h2>$/;"	I
+orale-8---1225-26	pandoc/reti0726.html	/^<h2 id="orale-8---1225-26">Orale 8 - 12:25 (26)<\/h2>$/;"	I
+orale-8---1405-23	pandoc/reti0629.html	/^<h2 id="orale-8---1405-23">Orale 8 - 14:05 (23)<\/h2>$/;"	I
+orale-8---1550-20	pandoc/reti0720.html	/^<h2 id="orale-8---1550-20">Orale 8 - 15:50 (20)<\/h2>$/;"	I
+orale-9---1250-18	pandoc/reti0726.html	/^<h2 id="orale-9---1250-18">Orale 9 - 12:50 (18)<\/h2>$/;"	I
+orale-9---1440-23	pandoc/reti0629.html	/^<h2 id="orale-9---1440-23">Orale 9 - 14:40 (23)<\/h2>$/;"	I
+orale-9---1620-29	pandoc/reti0720.html	/^<h2 id="orale-9---1620-29">Orale 9 - 16:20 (29)<\/h2>$/;"	I
+orali-del-10-giugno-2022	pandoc/reti0610.html	/^<h1 id="orali-del-10-giugno-2022">Orali del 10 giugno 2022<\/h1>$/;"	I
+orali-del-20-luglio-2022	pandoc/reti0720.html	/^<h1 id="orali-del-20-luglio-2022">Orali del 20 luglio 2022<\/h1>$/;"	I
+orali-del-26-luglio-2022-mattina	pandoc/reti0726.html	/^<h1 id="orali-del-26-luglio-2022-mattina">Orali del 26 luglio 2022 (Mattina)<\/h1>$/;"	I
+orali-del-26-luglio-2022-pomeriggio	pandoc/reti0726.html	/^<h1 id="orali-del-26-luglio-2022-pomeriggio">Orali del 26 luglio 2022 (Pomeriggio)<\/h1>$/;"	I
+orali-del-29-giugno-2022	pandoc/reti0629.html	/^<h1 id="orali-del-29-giugno-2022">Orali del 29 giugno 2022<\/h1>$/;"	I
+orario-2022	pandoc/orario.html	/^<h1 id="orario-2022">Orario 2022<\/h1>$/;"	I
+parte-1	pandoc/lab1.html	/^<h2 id="parte-1">Parte 1<\/h2>$/;"	I
+parte-2	pandoc/lab1.html	/^<h2 id="parte-2">Parte 2<\/h2>$/;"	I
+pf	pandoc/assets/link2html.py	/^import panflute as pf$/;"	I	nameref:module:panflute
+possible-modules	pandoc/ucd.html	/^<h2 id="possible-modules">Possible modules<\/h2>$/;"	I
+programming-languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="">Programming languages<\/a><\/h2>$/;"	I
+referenti	pandoc/tesi_corradini.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	I
+referenti	pandoc/tesi_paganelli.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	I
+reti-di-calcolatori-e-laboratorio-2021-2022	pandoc/reti.html	/^<h1 id="reti-di-calcolatori-e-laboratorio-2021-2022">Reti di calcolatori e laboratorio (<a href=/;"	I
+semester-1	pandoc/ucd.html	/^<h3 id="semester-1">Semester 1<\/h3>$/;"	I
+semester-1-1	pandoc/ucd.html	/^<h3 id="semester-1-1">Semester 1<\/h3>$/;"	I
+semester-2	pandoc/ucd.html	/^<h3 id="semester-2">Semester 2<\/h3>$/;"	I
+semester-2-1	pandoc/ucd.html	/^<h3 id="semester-2-1">Semester 2<\/h3>$/;"	I
+software-validation-ad-verification---ott.24	pandoc/svv.html	/^<h1 id="software-validation-ad-verification---ott.24">Software validation ad verification - Ott./;"	I
+spare-modules	pandoc/ucd.html	/^<h2 id="spare-modules">Spare modules<\/h2>$/;"	I
+studio-del-type-system-di-rust	pandoc/tesi_corradini.html	/^<h1 id="studio-del-type-system-di-rust">Studio del type system di Rust<\/h1>$/;"	I
+svv05	pandoc/svv.html	/^<h2 id="svv05">svv05<\/h2>$/;"	I
+svv05	pandoc/svv.html	/^<h2 id="svv05">svv05<\/h2>$/;"	i
+svv05	svv.md	/^## svv05$/;"	s	chapter:Software validation ad verification - Ott.24
+svv06	pandoc/svv.html	/^<h2 id="svv06">svv06<\/h2>$/;"	I
+svv06	pandoc/svv.html	/^<h2 id="svv06">svv06<\/h2>$/;"	i
+svv06	svv.md	/^## svv06$/;"	s	chapter:Software validation ad verification - Ott.24
+teoria-26	pandoc/reti0726.html	/^<h3 id="teoria-26">Teoria (26)<\/h3>$/;"	I
+timetables	pandoc/notes.html	/^<h2 id="timetables">Timetables<\/h2>$/;"	I
+web-frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="">Web frameworks<\/a><\/h2>$/;"	I
