@@ -1,3 +1,3 @@
 - [Delega](delega.md)
 - [Lettera Susanna](lettera_susanna.md)
-- [Lettera Fabio](lettera_fabio.md)
+- [Lettera Rosemary](lettera_rosemary.md)

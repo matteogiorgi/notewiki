@@ -44,6 +44,8 @@ Go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	i
 Haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	i
 Here & there	extra.md	/^# Here & there$/;"	c
 Here &amp; there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	h
+Ingegneria del software	is.md	/^# Ingegneria del software$/;"	c
+Ingegneria del software	pandoc/is.html	/^<h1 id="ingegneria-del-software">Ingegneria del software<\/h1>$/;"	h
 Introduzione al corso	ecc0915.md	/^## Introduzione al corso$/;"	s	chapter:Giovedì 15 settembre 2022
 Introduzione al corso	pandoc/ecc0915.html	/^<h2 id="introduzione-al-corso">Introduzione al corso<\/h2>$/;"	i
 Laboratorio	pandoc/reti.html	/^<h2 id="laboratorio">Laboratorio<\/h2>$/;"	i
@@ -71,6 +73,7 @@ MathJax-script	pandoc/ecc220915.html	/^  <script id="MathJax-script" async src="
 MathJax-script	pandoc/extra.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/index.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/irish_msc.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/is.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lab1.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lettera_fabio.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lettera_susanna.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
@@ -93,6 +96,7 @@ MathJax-script	pandoc/tables.html	/^  <script id="MathJax-script" async src="htt
 MathJax-script	pandoc/tesi.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/tesi_corradini.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/tesi_paganelli.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/toody.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/ucd.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 More books	books.md	/^# More books$/;"	c
 More books	pandoc/books.html	/^<h1 id="more-books">More books<\/h1>$/;"	h
@@ -260,6 +264,7 @@ giovedì-15-settembre-2022	pandoc/ecc220915.html	/^<h1 id="giovedì-15-settembre
 go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	I
 haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	I
 here-there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	I
+ingegneria-del-software	pandoc/is.html	/^<h1 id="ingegneria-del-software">Ingegneria del software<\/h1>$/;"	I
 introduzione-al-corso	pandoc/ecc0915.html	/^<h2 id="introduzione-al-corso">Introduzione al corso<\/h2>$/;"	I
 laboratorio	pandoc/reti.html	/^<h2 id="laboratorio">Laboratorio<\/h2>$/;"	I
 laboratorio-1	pandoc/lab1.html	/^<h1 id="laboratorio-1">Laboratorio 1<\/h1>$/;"	I
