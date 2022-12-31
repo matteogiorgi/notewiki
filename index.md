@@ -1,9 +1,9 @@
 # [Notewiki](https://github.com/matteogiorgi/notewiki)
 
-### [Personal Library](library.md)
-### [More Notewiki](extra.md)
-### [Unipi lectures](notes.md)
-### [Motivation letter](motivation_letter.md)
+### &bull;&nbsp; [Personal Library](library.md)
+### &bull;&nbsp; [More Notewiki](extra.md)
+### &bull;&nbsp; [Unipi lectures](notes.md)
+### &bull;&nbsp; [Motivation letter](motivation_letter.md)
 
 <!-- - [Extra Library](books.md) -->
 <!-- - [Lettere](lettere.md) -->

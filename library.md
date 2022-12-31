@@ -1,12 +1,24 @@
 # [Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 
 
+
+
+## [Computer architectures](https://mega.nz/folder/p4AlAKAL#8oJlRBflhTW3eeTKSabLwQ)
+
+- [Patterson - Computer architectures mips edition](https://mega.nz/file/lhIVzBBb#uGc5PRsAdG93AL1XEUkBnc-UYwFAGuHwzJ59Ib0sFxc)
+
+
+
+
 ## [Operating systems](https://mega.nz/folder/JxxgjALZ#ijleysne9L2-hB2FxCibow)
 
 - [Dusseau - Operating systems](https://mega.nz/file/B9IG2BIL#VmyVZ9HdtVi2_opATWZx81Ew0G9cPOJeDJTjG551W74)
 - [Bryant - Computer systems, a programmer's perspective](https://mega.nz/file/l8Q31IRY#W6Xg0SQwTo1ajt2Q1KGgLqUIIKAB_3Tc8FVW6AVy7TQ)
+- [Kerrisk - The Linux programming interface](https://mega.nz/file/E0BzlShD#ob0YEkIRZK71IhRWUAPxCS8M1e1UfmQwK9iMEG7mIj0)
 - [Bresnahan - LPIC-1 study guide](https://mega.nz/file/05hCgLZI#JNzm5pHqSSh6KMUb4K7AfQyTVGX_OBDV4GdsyiJ_elg)
 - [Bresnahan - LPIC-2 study guide](https://mega.nz/file/o8wnXDQK#B-RWOUy6Vr6gDAgRm2_66WEVK2fVuPv-Lan9G5B_0qE)
+
+
 
 
 ## [Computer networks](https://mega.nz/folder/lwhjFLSa#mLu1jHk437_c3kqwKy4ZLw)
@@ -23,6 +35,18 @@
 - [Stevens - UNIX network programming 2, interprocess communications](https://mega.nz/file/xt5kXKLT#Ng3H-5hEr3gsfJ1Q45awfc-_SuTAxtL9oZ_puYRvIbs)
 - [Woodbeck - Network programming with Go](https://mega.nz/file/swA2WbAJ#MJhZ09fENFa3Sf7iNNk7hS4TIM9S3eHY2uvV88qvc_Y)
 - [Harold - Java network programming](https://mega.nz/file/MwwxyCzJ#5fO9MQgdSj2JjjA2Y7aH0uZd7DjXlow1LcwaDSXuA5w)
+- [Pitt - Fundamental networking in Java](https://mega.nz/file/B8JjWYbI#jOaBMEiZQEMmtKE59J3KhARNl6tfdrfvzDxufUrfXdI)
+
+
+
+
+## [Network security](https://mega.nz/folder/0gQXRYoK#WQ2tFEC0wyui5vhzhGU6UQ)
+
+- [Schwartz - Practical UNIX and Internet security](https://mega.nz/file/QsxHVYyQ#kEvC0KwQHtZXoCbp8ZEk5_8TGAVeJPruAFUyDeFVWY8)
+- [Cheswick - Firewalls and Internet security](https://mega.nz/file/xpQAEJJY#ARzRoRZX27gPx_ZswrfHBM5eHWaQpgNEmptawV3EwqU)
+- [Dhanjani - Hacking](https://mega.nz/file/8tgBACZS#saWO_VUdqVXcZ2B7vCdGpg2d6mRA9dJ3NwZunE_JVXM)
+
+
 
 
 ## [Algorithms & Data structures](https://mega.nz/folder/wgAGHZaY#uG0H4edvJ37Bo0R427OMRA)
@@ -42,10 +66,17 @@
 - [Okasaki - Purely functional data structures](https://mega.nz/file/A8wnkRia#gfCRhv6LwDgyxBTRcdIz96PDhXvRFgeEN8fpTa6MM44)
 
 
+
+
 ## [Competitive programming](https://mega.nz/folder/l4hUWaSC#Z9LNTr9xSPIKHQzh-rYk1Q)
 
 - [Laaksonen - Guide to competitive programming](https://mega.nz/file/9sAz1BzL#3c5ukLITOo7a80bTjPrVIKlUwJkmiZYSyJ5csVk4nTo)
+- [Mcdowell - Cracking the coding interview](https://mega.nz/file/A5YlUB4J#rc7sZ0DE-iXypm3FQ2bIG3FJJfovtqlOp47doDcbhyw)
+- [Aziz - Elements of programming interviews in Java](https://mega.nz/file/EhxwTY7K#XBIZLaDO-MP5nvteVX_JXycoeD19wYPeEtpL6KewfaA)
 - [Rossi - Programming interview problems](https://mega.nz/file/Ik4BBJTJ#Z6jaq6q49XAlujklbm4CIsAbMlKi8V1-pop37bnxirg)
+- [Orourke - Computational geometry in C](https://mega.nz/file/ZoxXnTRA#hhe5YN3_N-V1a8qLpcH2nhrkKCJ2shH8PJxWGYZRPlk)
+
+
 
 
 ## [AI & Machine learning](https://mega.nz/folder/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g)
@@ -62,9 +93,62 @@
 - [Russel - Artificial intelligence, a modern approach](https://mega.nz/file/ohACjRLS#_BsX0cUMa593Z0O8264h9lDsWAE8mQuHxKBvd4vKz8U)
 
 
+
+
+## [Category theory](https://mega.nz/folder/FpRDCIgI#3m_kfynNq7GslhNNjzu02g)
+
+- [Milewski - Category theory for programmers](https://mega.nz/file/80JigbaC#QjCvdKnXr45l8dMiUb1MaL0fQVDBkrqn_ueTAN1LRCM)
+- [Spivak - An invitation to applied category theory](https://mega.nz/file/wtRFybxJ#UDYwVYaM8viKCFEAvgdCScmBC_-uq9eaqB6yZ4vjhPM)
+
+
+
+
 ## [Programming languages](https://mega.nz/folder/5x4l1AJD#_So9_hVM1lCgsPy0VUxfaA)
 
-- [Pierce - Types and programming languages](https://mega.nz/file/x4ZFjIxb#Ca6TDQ-8dYAYK2NzbYk9quOcfDe0vWIkqaFmc5rPC-U)
+- [Watt - Programming language design concepts](https://mega.nz/file/VtJ3HKAJ#KGeMlGab0a8b93nMqM0WQkwS895APULjd8qUIgqhU1M)
+- [Riscutia - Programming with types](https://mega.nz/file/1xYmEBYa#6QJ1dliJPICkhuCIIkeQFWSU12E2x0IVUn7ZNyVQLGo)
+- [Thain - Introduction to compilers and language design](https://mega.nz/file/IxRSVIRZ#pzqzp0_Ho_FR6koekqqoNzBaFjQiQ9l5hr8UxAlkUZg)
+- [Nystrom - Crafting interpreters](https://mega.nz/file/hhIDWAAa#l56wY1Wnso6yZHfCFKXnobW0lyxC2gUeCvQmuIMBih8)
+
+
+
+
+## [Software engineering](https://mega.nz/folder/0kx0CQoA#hw3s0hHRXmtDzQRUJntCCQ)
+
+- [Baier - Principles of model checking](https://mega.nz/file/skZDGRpS#VsHDlULcL-sJGtAOMCQNTx4PVpbkweSY5e75aTxHnas)
+
+
+
+
+## [Java](https://mega.nz/folder/plZ0EK5S#kngtukglf5SUK1SFmrpF1w)
+
+
+
+
+## [LISP](https://mega.nz/folder/I4gmXT6T#_HKqlNP8urfC_dVTO4yLCQ)
+
+- [Abelson - Structure and interpretation of computer programs](https://mega.nz/file/48BDlD7Y#sOz6mLPLF2jKwJYlktwVWoKxqLb_egZxLLgBmKq429g)
+- [Graham - ANSI Common LISP](https://mega.nz/file/0oYFhC5D#o5v4msO3-doROAXHVZSfgDmFUY8PK-UnPeV2XkXju7I)
+- [Domkin - Programming algorithms in LISP](https://mega.nz/file/04YnXRZJ#6y7Hflcd4J15A3S5JHifeXi1XZfqFqxTHXxnaqQz6Z0)
+
+
+
+
+## [Javascript](https://mega.nz/folder/sgQRUbaK#FZB_MeGH4LiVdkl5JaHoYA)
+
+- [Abelson - Structure and interpretation of computer programs javascript edition](https://mega.nz/file/olBxWYjI#0JnLScVAXuyYVInUe1CXfmtcnwSRHdfJaBidAovTTw0)
+- [Crockford - How Javascript works](https://mega.nz/file/V5B0hIQT#4QxESz1Zdh_5WrHF1VNFX31284Ta9AjJvpee4kL1vfc)
+- [Haverbecke - Eloquent Javascript](https://mega.nz/file/98xUCAKL#54vjCZa-gLhYlHkgCL7kKPVjTGvWF30c2mJO8TJmceQ)
+
+
+
+
+## [Ocaml](https://mega.nz/folder/4kAXBL6b#qMFV6jbHAw_DqWygZWZO1g)
+
+- [Whitington - Ocaml from the very beginning](nobook.md)
+- [Whitington - More Ocaml](https://mega.nz/file/kh5XFAgY#NW6bBj977Q1YMmcdXA4kO-hjXgqtSpEotWTDl479xOU)
+
+
 
 
 ## [Haskell](https://mega.nz/folder/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ)
@@ -79,6 +163,8 @@
 - [Whitington - Haskell from the very beginning](nobook.md)
 
 
+
+
 ## [Go](https://mega.nz/folder/dg5CUAyY#fi8RNJMUWxtmL97oO7rc5A)
 
 - [Donovan - The Go programming language](https://mega.nz/file/R8hyAIib#NsJ1Sw9L8yRHrY_AgCCTB1qaGtrizgZFdrWG6hHRDCM)
@@ -87,16 +173,25 @@
 - [Buday - Concurrency on Go](https://mega.nz/file/A0RlVBZY#KbeR-8XTlTciFEjkfRZmq91qolz8kx_fv5O0QhOuf20)
 
 
+
+
 ## [Web frameworks](https://mega.nz/folder/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)
 
 - [Snoyman - Developing web apps with Haskell and Yesod](https://mega.nz/file/1lJ3BShD#eGLfh3We73WfrvT8FiOn9D96p4QPvFIRX8MuSDwE2_E)
+- [Wieruch - The road to React](https://www.amazon.it/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_11?keywords=react+js&qid=1672411881&s=books&sprefix=react%2Cstripbooks%2C111&sr=1-11)
+- [Wieruch - The road to GraphQL](https://www.amazon.it/Road-GraphQL-pragmatic-JavaScript-React-js/dp/1730853935/ref=pd_bxgy_img_sccl_1/261-3867334-0926439?pd_rd_w=R5LXM&content-id=amzn1.sym.021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_p=021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_r=T1KH3WZQGT4TW6QXKNN6&pd_rd_wg=1ZzoJ&pd_rd_r=becfd173-314a-4301-a4d0-ac08b080041c&pd_rd_i=1730853935&psc=1)
 
 
-## [Fisica](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
+
+
+## [Phisics & Quantum computing](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
 
 - [Kittel - La fisica di Berkeley 1, meccanica](https://mega.nz/file/s4oCyKzA#nmetE1syRQLoqyDaHF7m6XIdUFHSQreovNSxIpcCe2s)
 - [Purcell - La fisica di Berkeley 2, elettricità e magnetismo](nobook.md)
 - [Crawford - La fisica di Berkeley 3, onde e oscillazioni](nobook.md)
+- [Coecke - Picturing quantum processes](https://mega.nz/file/00YAiSKI#JevwBRme-66rpRPrPwkK-yddYXOitWShNct2L6ylDRg)
 
 
-##### [More books ...](more_books.md)
+
+
+##### [More books ...](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)

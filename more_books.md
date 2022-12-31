@@ -1,5 +1,4 @@
-# [Books unlisted](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
-
-- [Czekster - Markov chains for programmers](https://mega.nz/file/Bt41laCb#qQ96PrmemSyv_Wfz6eB1tV_j_dPnxIpSz6HAbYriHr4)
-- [Lepori - Linguaggi di programmazione LISP](https://mega.nz/file/51x2jDjL#OEeNTJmdgz6ZyxsjlQiwQX_3ArHuY3UKUPiHtXtU4BY)
-- [Pierce - Types and programming languages](https://mega.nz/file/x4ZFjIxb#Ca6TDQ-8dYAYK2NzbYk9quOcfDe0vWIkqaFmc5rPC-U)
+- [Wieruch - The road to React](https://www.amazon.it/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_11?keywords=react+js&qid=1672411881&s=books&sprefix=react%2Cstripbooks%2C111&sr=1-11)
+- [Wieruch - The road to GraphQL](https://www.amazon.it/Road-GraphQL-pragmatic-JavaScript-React-js/dp/1730853935/ref=pd_bxgy_img_sccl_1/261-3867334-0926439?pd_rd_w=R5LXM&content-id=amzn1.sym.021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_p=021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_r=T1KH3WZQGT4TW6QXKNN6&pd_rd_wg=1ZzoJ&pd_rd_r=becfd173-314a-4301-a4d0-ac08b080041c&pd_rd_i=1730853935&psc=1)
+- [Riscutia - Programming with types](https://www.amazon.it/Programming-Types-Typescript-Vlad-Riscutia/dp/1617296414/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37U8XJ6TNTHFY&keywords=types+and+programming+languages&qid=1672479684&sprefix=types+and+programming+languages%2Caps%2C94&sr=8-4)
+- [Domkin - Programming algorithms in lisp](https://www.amazon.it/Programming-Algorithms-Lisp-Efficient-Programs/dp/1484264274/ref=rvi_sccl_7/260-3303302-6766648?pd_rd_w=Gxztw&content-id=amzn1.sym.034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_p=034079e9-a9b3-4dde-baaf-9e398ee2f758&pf_rd_r=89703B77RCEB96N1V8J4&pd_rd_wg=BNtpw&pd_rd_r=8b11a67a-149f-492f-abbb-e3444076d250&pd_rd_i=1484264274&psc=1)
