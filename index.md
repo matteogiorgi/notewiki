@@ -1,4 +1,4 @@
-# <a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+# [Notewiki](https://github.com/matteogiorgi/notewiki)
 
 ### [Personal Library](library.md)
 ### [More Notewiki](extra.md)

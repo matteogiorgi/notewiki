@@ -10,7 +10,6 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
 <a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>	README.md	/^# <a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md">Notewiki<\/a>$/;"	c
-<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>	index.md	/^# <a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md">Notewiki<\/a>$/;"	c
 AI &amp; Machine learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="https:\/\/mega.nz\/folder\/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g/;"	i
 ANDREA CORRADINI - Monday, 29 March 2021, 12:59	tesi_corradini.md	/^##### ANDREA CORRADINI - Monday, 29 March 2021, 12:59$/;"	T	chapter:Studio del type system di Rust
 Algorithms &amp; Data structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="https:\/\/mega.nz\/folder\/wgAGHZaY#uG0H4edvJ37Bo0R/;"	i
@@ -113,6 +112,7 @@ Newcomers	books.md	/^## Newcomers$/;"	s	chapter:More books
 Newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	i
 Notes by subject	notes.md	/^# Notes by subject$/;"	c
 Notes by subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	h
+Notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md"/;"	h
 Nuovo ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	i
 Nuovo ordinamento	reti.md	/^## Nuovo ordinamento$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
 Obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	i
@@ -244,16 +244,17 @@ Web frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="https:\/\/
 [Haskell](https://mega.nz/folder/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ)	library.md	/^## [Haskell](https:\/\/mega.nz\/folder\/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 [MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)	ucd.md	/^# [MSc Computer Science - Negotiated Learning](https:\/\/www.ucd.ie\/cs\/study\/postgraduate\/nl/;"	c
 [More Notewiki](extra.md)	README.md	/^### [More Notewiki](extra.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
-[More Notewiki](extra.md)	index.md	/^### [More Notewiki](extra.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[More Notewiki](extra.md)	index.md	/^### [More Notewiki](extra.md)$/;"	S	chapter:[Notewiki](https://github.com/matteogiorgi/notewiki)
 [More books ...](more_books.md)	library.md	/^##### [More books ...](more_books.md)$/;"	T	section:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)""[Fisica](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
 [Motivation letter](motivation_letter.md)	README.md	/^### [Motivation letter](motivation_letter.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
-[Motivation letter](motivation_letter.md)	index.md	/^### [Motivation letter](motivation_letter.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Motivation letter](motivation_letter.md)	index.md	/^### [Motivation letter](motivation_letter.md)$/;"	S	chapter:[Notewiki](https://github.com/matteogiorgi/notewiki)
+[Notewiki](https://github.com/matteogiorgi/notewiki)	index.md	/^# [Notewiki](https:\/\/github.com\/matteogiorgi\/notewiki)$/;"	c
 [Operating systems](https://mega.nz/folder/JxxgjALZ#ijleysne9L2-hB2FxCibow)	library.md	/^## [Operating systems](https:\/\/mega.nz\/folder\/JxxgjALZ#ijleysne9L2-hB2FxCibow)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 [Personal Library](library.md)	README.md	/^### [Personal Library](library.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
-[Personal Library](library.md)	index.md	/^### [Personal Library](library.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Personal Library](library.md)	index.md	/^### [Personal Library](library.md)$/;"	S	chapter:[Notewiki](https://github.com/matteogiorgi/notewiki)
 [Programming languages](https://mega.nz/folder/5x4l1AJD#_So9_hVM1lCgsPy0VUxfaA)	library.md	/^## [Programming languages](https:\/\/mega.nz\/folder\/5x4l1AJD#_So9_hVM1lCgsPy0VUxfaA)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 [Unipi lectures](notes.md)	README.md	/^### [Unipi lectures](notes.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
-[Unipi lectures](notes.md)	index.md	/^### [Unipi lectures](notes.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Unipi lectures](notes.md)	index.md	/^### [Unipi lectures](notes.md)$/;"	S	chapter:[Notewiki](https://github.com/matteogiorgi/notewiki)
 [Web frameworks](https://mega.nz/folder/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)	library.md	/^## [Web frameworks](https:\/\/mega.nz\/folder\/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 action	pandoc/assets/link2html.py	/^def action(elem, doc):$/;"	f
 ai-machine-learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="https:\/\/mega.nz\/folder\/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g/;"	I
@@ -293,6 +294,7 @@ motivation-letter	pandoc/index.html	/^<h3 id="motivation-letter"><a href="motiva
 msc-computer-science---negotiated-learning	pandoc/ucd.html	/^<h1 id="msc-computer-science---negotiated-learning"><a href="https:\/\/www.ucd.ie\/cs\/study\/po/;"	I
 newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	I
 notes-by-subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	I
+notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md"/;"	I
 nuovo-ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	I
 obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
 obiettivo	pandoc/tesi_paganelli.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
