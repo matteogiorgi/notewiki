@@ -9,15 +9,18 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
-AI &amp; Machine learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="">AI &amp; Machine learning<\/a><\/h2>$/;"	i
+<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>	README.md	/^# <a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md">Notewiki<\/a>$/;"	c
+<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>	index.md	/^# <a href="https:\/\/github.com\/matteogiorgi\/notewiki\/blob\/master\/index.md">Notewiki<\/a>$/;"	c
+AI &amp; Machine learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="https:\/\/mega.nz\/folder\/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g/;"	i
 ANDREA CORRADINI - Monday, 29 March 2021, 12:59	tesi_corradini.md	/^##### ANDREA CORRADINI - Monday, 29 March 2021, 12:59$/;"	T	chapter:Studio del type system di Rust
-Algorithms &amp; Data structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="">Algorithms &amp; Data structures<\/a><\/h2>$/;"	i
+Algorithms &amp; Data structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="https:\/\/mega.nz\/folder\/wgAGHZaY#uG0H4edvJ37Bo0R/;"	i
 Algoritmi per la gestione di funzioni virtuali di rete	pandoc/tesi_paganelli.html	/^<h1 id="algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete">Algoritmi per la gestione di fun/;"	h
 Algoritmi per la gestione di funzioni virtuali di rete	tesi_paganelli.md	/^# Algoritmi per la gestione di funzioni virtuali di rete$/;"	c
 Appunti	ecc.md	/^## Appunti$/;"	s	chapter:[Elementi di calcolabilità e complessità](http://pages.di.unipi.it/degano/)
 Appunti	pandoc/ecc.html	/^<h2 id="appunti">Appunti<\/h2>$/;"	i
-Competitive programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="">Competitive programming<\/a><\/h2>$/;"	i
-Computer networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="">Computer networks<\/a><\/h2>$/;"	i
+Books unlisted	pandoc/more_books.html	/^<h1 id="books-unlisted"><a href="https:\/\/mega.nz\/folder\/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw">Boo/;"	h
+Competitive programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="https:\/\/mega.nz\/folder\/l4hUWaSC#Z9LNTr9xSPIKHQzh-r/;"	i
+Computer networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="https:\/\/mega.nz\/folder\/lwhjFLSa#mLu1jHk437_c3kqwKy4ZLw">/;"	i
 Contesto	pandoc/tesi_corradini.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	i
 Contesto	pandoc/tesi_paganelli.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	i
 Contesto	tesi_corradini.md	/^## Contesto$/;"	s	chapter:Studio del type system di Rust
@@ -36,12 +39,12 @@ Elementi di calcolabilità e complessità	pandoc/ecc.html	/^<h1 id="elementi-di-
 Even more books	pandoc/purchases.html	/^<h1 id="even-more-books">Even more books<\/h1>$/;"	h
 Even more books	purchases.md	/^# Even more books$/;"	c
 FEDERICA PAGANELLI - Friday, 4 March 2022, 09:41	tesi_paganelli.md	/^##### FEDERICA PAGANELLI - Friday, 4 March 2022, 09:41$/;"	T	chapter:Algoritmi per la gestione di funzioni virtuali di rete
-Fisica	pandoc/library.html	/^<h2 id="fisica"><a href="">Fisica<\/a><\/h2>$/;"	i
+Fisica	pandoc/library.html	/^<h2 id="fisica"><a href="https:\/\/mega.nz\/folder\/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ">Fisica<\/a>/;"	i
 Giovedì 15 settembre 2022	ecc0915.md	/^# Giovedì 15 settembre 2022$/;"	c
 Giovedì 15 settembre 2022	pandoc/ecc0915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	h
 Giovedì 15 settembre 2022	pandoc/ecc220915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	h
-Go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	i
-Haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	i
+Go	pandoc/library.html	/^<h2 id="go"><a href="https:\/\/mega.nz\/folder\/dg5CUAyY#fi8RNJMUWxtmL97oO7rc5A">Go<\/a><\/h2>$/;"	i
+Haskell	pandoc/library.html	/^<h2 id="haskell"><a href="https:\/\/mega.nz\/folder\/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ">Haskell<\//;"	i
 Here & there	extra.md	/^# Here & there$/;"	c
 Here &amp; there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	h
 Ingegneria del software	is.md	/^# Ingegneria del software$/;"	c
@@ -76,11 +79,15 @@ MathJax-script	pandoc/irish_msc.html	/^  <script id="MathJax-script" async src="
 MathJax-script	pandoc/is.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lab1.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lettera_fabio.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/lettera_rosemary.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lettera_susanna.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/lettere.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/library.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/masters.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/metriche.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/more_books.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/motivation_letter.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+MathJax-script	pandoc/nobook.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/notes.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/orario.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/programma.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
@@ -98,20 +105,21 @@ MathJax-script	pandoc/tesi_corradini.html	/^  <script id="MathJax-script" async 
 MathJax-script	pandoc/tesi_paganelli.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/toody.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
 MathJax-script	pandoc/ucd.html	/^  <script id="MathJax-script" async src="https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3\/es5\/tex-mm/;"	I
+More Notewiki	pandoc/index.html	/^<h3 id="more-notewiki"><a href="extra.html">More Notewiki<\/a><\/h3>$/;"	j
 More books	books.md	/^# More books$/;"	c
 More books	pandoc/books.html	/^<h1 id="more-books">More books<\/h1>$/;"	h
+Motivation letter	pandoc/index.html	/^<h3 id="motivation-letter"><a href="motivation_letter.html">Motivation letter<\/a><\/h3>$/;"	j
 Newcomers	books.md	/^## Newcomers$/;"	s	chapter:More books
 Newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	i
 Notes by subject	notes.md	/^# Notes by subject$/;"	c
 Notes by subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	h
-Notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki">Notewiki<\/a><\/h1>$/;"	h
 Nuovo ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	i
 Nuovo ordinamento	reti.md	/^## Nuovo ordinamento$/;"	s	chapter:Reti di calcolatori e laboratorio ([2021](https://elearning.di.unipi.it/course/view.php?id=257), [2022](https://elearning.di.unipi.it/course/view.php?id=312))
 Obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	i
 Obiettivo	pandoc/tesi_paganelli.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	i
 Obiettivo	tesi_corradini.md	/^## Obiettivo$/;"	s	chapter:Studio del type system di Rust
 Obiettivo	tesi_paganelli.md	/^## Obiettivo$/;"	s	chapter:Algoritmi per la gestione di funzioni virtuali di rete
-Operating systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="">Operating systems<\/a><\/h2>$/;"	i
+Operating systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="https:\/\/mega.nz\/folder\/JxxgjALZ#ijleysne9L2-hB2FxCibow">/;"	i
 Orale 1 - 11:00 (18)	pandoc/reti0610.html	/^<h2 id="orale-1---1100-18">Orale 1 - 11:00 (18)<\/h2>$/;"	i
 Orale 1 - 11:00 (18)	reti0610.md	/^## Orale 1 - 11:00 (18)$/;"	s	chapter:Orali del 10 giugno 2022
 Orale 1 - 11:05 (30)	pandoc/reti0629.html	/^<h2 id="orale-1---1105-30">Orale 1 - 11:05 (30)<\/h2>$/;"	i
@@ -196,9 +204,10 @@ Parte 1	lab1.md	/^## Parte 1$/;"	s	chapter:Laboratorio 1
 Parte 1	pandoc/lab1.html	/^<h2 id="parte-1">Parte 1<\/h2>$/;"	i
 Parte 2	lab1.md	/^## Parte 2$/;"	s	chapter:Laboratorio 1
 Parte 2	pandoc/lab1.html	/^<h2 id="parte-2">Parte 2<\/h2>$/;"	i
+Personal Library	pandoc/index.html	/^<h3 id="personal-library"><a href="library.html">Personal Library<\/a><\/h3>$/;"	j
 Possible modules	pandoc/ucd.html	/^<h2 id="possible-modules">Possible modules<\/h2>$/;"	i
 Possible modules	ucd.md	/^## Possible modules$/;"	s	chapter:[MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)
-Programming languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="">Programming languages<\/a><\/h2>$/;"	i
+Programming languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="https:\/\/mega.nz\/folder\/5x4l1AJD#_So9_hVM1lCgsPy0VUxf/;"	i
 Referenti	pandoc/tesi_corradini.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	i
 Referenti	pandoc/tesi_paganelli.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	i
 Referenti	tesi_corradini.md	/^## Referenti$/;"	s	chapter:Studio del type system di Rust
@@ -221,32 +230,40 @@ Studio del type system di Rust	pandoc/tesi_corradini.html	/^<h1 id="studio-del-t
 Studio del type system di Rust	tesi_corradini.md	/^# Studio del type system di Rust$/;"	c
 Teoria (26)	pandoc/reti0726.html	/^<h3 id="teoria-26">Teoria (26)<\/h3>$/;"	j
 Teoria (26)	reti0726.md	/^### Teoria (26)$/;"	S	section:Orali del 26 luglio 2022 (Pomeriggio)""Orale 1 - 14:00
-Timetables	notes.md	/^## Timetables$/;"	s	chapter:Notes by subject
-Timetables	pandoc/notes.html	/^<h2 id="timetables">Timetables<\/h2>$/;"	i
-Web frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="">Web frameworks<\/a><\/h2>$/;"	i
-[AI & Machine learning]()	library.md	/^## [AI & Machine learning]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Algorithms & Data structures]()	library.md	/^## [Algorithms & Data structures]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Competitive programming]()	library.md	/^## [Competitive programming]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Computer networks]()	library.md	/^## [Computer networks]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+Unipi lectures	pandoc/index.html	/^<h3 id="unipi-lectures"><a href="notes.html">Unipi lectures<\/a><\/h3>$/;"	j
+Web frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="https:\/\/mega.nz\/folder\/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ">Web/;"	i
+[AI & Machine learning](https://mega.nz/folder/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g)	library.md	/^## [AI & Machine learning](https:\/\/mega.nz\/folder\/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Algorithms & Data structures](https://mega.nz/folder/wgAGHZaY#uG0H4edvJ37Bo0R427OMRA)	library.md	/^## [Algorithms & Data structures](https:\/\/mega.nz\/folder\/wgAGHZaY#uG0H4edvJ37Bo0R427OMRA)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Books unlisted](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)	more_books.md	/^# [Books unlisted](https:\/\/mega.nz\/folder\/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)$/;"	c
+[Competitive programming](https://mega.nz/folder/l4hUWaSC#Z9LNTr9xSPIKHQzh-rYk1Q)	library.md	/^## [Competitive programming](https:\/\/mega.nz\/folder\/l4hUWaSC#Z9LNTr9xSPIKHQzh-rYk1Q)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Computer networks](https://mega.nz/folder/lwhjFLSa#mLu1jHk437_c3kqwKy4ZLw)	library.md	/^## [Computer networks](https:\/\/mega.nz\/folder\/lwhjFLSa#mLu1jHk437_c3kqwKy4ZLw)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 [Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)	library.md	/^# [Digital Portable Library](https:\/\/mega.nz\/folder\/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)$/;"	c
 [Elementi di calcolabilità e complessità](http://pages.di.unipi.it/degano/)	ecc.md	/^# [Elementi di calcolabilità e complessità](http:\/\/pages.di.unipi.it\/degano\/)$/;"	c
-[Fisica]()	library.md	/^## [Fisica]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Go]()	library.md	/^## [Go]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Haskell]()	library.md	/^## [Haskell]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Fisica](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)	library.md	/^## [Fisica](https:\/\/mega.nz\/folder\/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Go](https://mega.nz/folder/dg5CUAyY#fi8RNJMUWxtmL97oO7rc5A)	library.md	/^## [Go](https:\/\/mega.nz\/folder\/dg5CUAyY#fi8RNJMUWxtmL97oO7rc5A)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Haskell](https://mega.nz/folder/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ)	library.md	/^## [Haskell](https:\/\/mega.nz\/folder\/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 [MSc Computer Science - Negotiated Learning](https://www.ucd.ie/cs/study/postgraduate/nlthemes/)	ucd.md	/^# [MSc Computer Science - Negotiated Learning](https:\/\/www.ucd.ie\/cs\/study\/postgraduate\/nl/;"	c
-[Notewiki](https://github.com/matteogiorgi/notewiki)	README.md	/^# [Notewiki](https:\/\/github.com\/matteogiorgi\/notewiki)$/;"	c
-[Notewiki](https://github.com/matteogiorgi/notewiki)	index.md	/^# [Notewiki](https:\/\/github.com\/matteogiorgi\/notewiki)$/;"	c
-[Operating systems]()	library.md	/^## [Operating systems]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Programming languages]()	library.md	/^## [Programming languages]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
-[Web frameworks]()	library.md	/^## [Web frameworks]()$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[More Notewiki](extra.md)	README.md	/^### [More Notewiki](extra.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[More Notewiki](extra.md)	index.md	/^### [More Notewiki](extra.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[More books ...](more_books.md)	library.md	/^##### [More books ...](more_books.md)$/;"	T	section:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)""[Fisica](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
+[Motivation letter](motivation_letter.md)	README.md	/^### [Motivation letter](motivation_letter.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Motivation letter](motivation_letter.md)	index.md	/^### [Motivation letter](motivation_letter.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Operating systems](https://mega.nz/folder/JxxgjALZ#ijleysne9L2-hB2FxCibow)	library.md	/^## [Operating systems](https:\/\/mega.nz\/folder\/JxxgjALZ#ijleysne9L2-hB2FxCibow)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Personal Library](library.md)	README.md	/^### [Personal Library](library.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Personal Library](library.md)	index.md	/^### [Personal Library](library.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Programming languages](https://mega.nz/folder/5x4l1AJD#_So9_hVM1lCgsPy0VUxfaA)	library.md	/^## [Programming languages](https:\/\/mega.nz\/folder\/5x4l1AJD#_So9_hVM1lCgsPy0VUxfaA)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
+[Unipi lectures](notes.md)	README.md	/^### [Unipi lectures](notes.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Unipi lectures](notes.md)	index.md	/^### [Unipi lectures](notes.md)$/;"	S	chapter:<a href="https://github.com/matteogiorgi/notewiki/blob/master/index.md">Notewiki</a>
+[Web frameworks](https://mega.nz/folder/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)	library.md	/^## [Web frameworks](https:\/\/mega.nz\/folder\/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)$/;"	s	chapter:[Digital Portable Library](https://mega.nz/folder/U5Q2zSAD#StqXExKo9nuZWuZ5oX70OA)
 action	pandoc/assets/link2html.py	/^def action(elem, doc):$/;"	f
-ai-machine-learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="">AI &amp; Machine learning<\/a><\/h2>$/;"	I
-algorithms-data-structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="">Algorithms &amp; Data structures<\/a><\/h2>$/;"	I
+ai-machine-learning	pandoc/library.html	/^<h2 id="ai-machine-learning"><a href="https:\/\/mega.nz\/folder\/8lRmSRIY#3t55WhHz5U7Ud1F11atN2g/;"	I
+algorithms-data-structures	pandoc/library.html	/^<h2 id="algorithms-data-structures"><a href="https:\/\/mega.nz\/folder\/wgAGHZaY#uG0H4edvJ37Bo0R/;"	I
 algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete	pandoc/tesi_paganelli.html	/^<h1 id="algoritmi-per-la-gestione-di-funzioni-virtuali-di-rete">Algoritmi per la gestione di fun/;"	I
 andrea-corradini---monday-29-march-2021-1259	pandoc/tesi_corradini.html	/^<h5 id="andrea-corradini---monday-29-march-2021-1259">ANDREA CORRADINI - Monday, 29 March 2021, /;"	I
 appunti	pandoc/ecc.html	/^<h2 id="appunti">Appunti<\/h2>$/;"	I
-competitive-programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="">Competitive programming<\/a><\/h2>$/;"	I
-computer-networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="">Computer networks<\/a><\/h2>$/;"	I
+books-unlisted	pandoc/more_books.html	/^<h1 id="books-unlisted"><a href="https:\/\/mega.nz\/folder\/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw">Boo/;"	I
+competitive-programming	pandoc/library.html	/^<h2 id="competitive-programming"><a href="https:\/\/mega.nz\/folder\/l4hUWaSC#Z9LNTr9xSPIKHQzh-r/;"	I
+computer-networks	pandoc/library.html	/^<h2 id="computer-networks"><a href="https:\/\/mega.nz\/folder\/lwhjFLSa#mLu1jHk437_c3kqwKy4ZLw">/;"	I
 contesto	pandoc/tesi_corradini.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	I
 contesto	pandoc/tesi_paganelli.html	/^<h2 id="contesto">Contesto<\/h2>$/;"	I
 definizione-di-algoritmo-ipotesi-classiche-del-modello	pandoc/ecc0915.html	/^<h2 id="definizione-di-algoritmo-ipotesi-classiche-del-modello">Definizione di algoritmo (ipotes/;"	I
@@ -258,11 +275,11 @@ domande-orale	pandoc/reti.html	/^<h2 id="domande-orale">Domande orale<\/h2>$/;"	
 elementi-di-calcolabilità-e-complessità	pandoc/ecc.html	/^<h1 id="elementi-di-calcolabilità-e-complessità"><a href="http:\/\/pages.di.unipi.it\/degano\//;"	I
 even-more-books	pandoc/purchases.html	/^<h1 id="even-more-books">Even more books<\/h1>$/;"	I
 federica-paganelli---friday-4-march-2022-0941	pandoc/tesi_paganelli.html	/^<h5 id="federica-paganelli---friday-4-march-2022-0941">FEDERICA PAGANELLI - Friday, 4 March 2022/;"	I
-fisica	pandoc/library.html	/^<h2 id="fisica"><a href="">Fisica<\/a><\/h2>$/;"	I
+fisica	pandoc/library.html	/^<h2 id="fisica"><a href="https:\/\/mega.nz\/folder\/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ">Fisica<\/a>/;"	I
 giovedì-15-settembre-2022	pandoc/ecc0915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	I
 giovedì-15-settembre-2022	pandoc/ecc220915.html	/^<h1 id="giovedì-15-settembre-2022">Giovedì 15 settembre 2022<\/h1>$/;"	I
-go	pandoc/library.html	/^<h2 id="go"><a href="">Go<\/a><\/h2>$/;"	I
-haskell	pandoc/library.html	/^<h2 id="haskell"><a href="">Haskell<\/a><\/h2>$/;"	I
+go	pandoc/library.html	/^<h2 id="go"><a href="https:\/\/mega.nz\/folder\/dg5CUAyY#fi8RNJMUWxtmL97oO7rc5A">Go<\/a><\/h2>$/;"	I
+haskell	pandoc/library.html	/^<h2 id="haskell"><a href="https:\/\/mega.nz\/folder\/I1YnzJyJ#cWpn648i0KGH3ynkA5h_aQ">Haskell<\//;"	I
 here-there	pandoc/extra.html	/^<h1 id="here-there">Here &amp; there<\/h1>$/;"	I
 ingegneria-del-software	pandoc/is.html	/^<h1 id="ingegneria-del-software">Ingegneria del software<\/h1>$/;"	I
 introduzione-al-corso	pandoc/ecc0915.html	/^<h2 id="introduzione-al-corso">Introduzione al corso<\/h2>$/;"	I
@@ -270,14 +287,16 @@ laboratorio	pandoc/reti.html	/^<h2 id="laboratorio">Laboratorio<\/h2>$/;"	I
 laboratorio-1	pandoc/lab1.html	/^<h1 id="laboratorio-1">Laboratorio 1<\/h1>$/;"	I
 laboratorio-25	pandoc/reti0726.html	/^<h3 id="laboratorio-25">Laboratorio (25)<\/h3>$/;"	I
 more-books	pandoc/books.html	/^<h1 id="more-books">More books<\/h1>$/;"	I
+more-books	pandoc/library.html	/^<h5 id="more-books"><a href="more_books.html">More books …<\/a><\/h5>$/;"	I
+more-notewiki	pandoc/index.html	/^<h3 id="more-notewiki"><a href="extra.html">More Notewiki<\/a><\/h3>$/;"	I
+motivation-letter	pandoc/index.html	/^<h3 id="motivation-letter"><a href="motivation_letter.html">Motivation letter<\/a><\/h3>$/;"	I
 msc-computer-science---negotiated-learning	pandoc/ucd.html	/^<h1 id="msc-computer-science---negotiated-learning"><a href="https:\/\/www.ucd.ie\/cs\/study\/po/;"	I
 newcomers	pandoc/books.html	/^<h2 id="newcomers">Newcomers<\/h2>$/;"	I
 notes-by-subject	pandoc/notes.html	/^<h1 id="notes-by-subject">Notes by subject<\/h1>$/;"	I
-notewiki	pandoc/index.html	/^<h1 id="notewiki"><a href="https:\/\/github.com\/matteogiorgi\/notewiki">Notewiki<\/a><\/h1>$/;"	I
 nuovo-ordinamento	pandoc/reti.html	/^<h2 id="nuovo-ordinamento">Nuovo ordinamento<\/h2>$/;"	I
 obiettivo	pandoc/tesi_corradini.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
 obiettivo	pandoc/tesi_paganelli.html	/^<h2 id="obiettivo">Obiettivo<\/h2>$/;"	I
-operating-systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="">Operating systems<\/a><\/h2>$/;"	I
+operating-systems	pandoc/library.html	/^<h2 id="operating-systems"><a href="https:\/\/mega.nz\/folder\/JxxgjALZ#ijleysne9L2-hB2FxCibow">/;"	I
 orale-1---1100-18	pandoc/reti0610.html	/^<h2 id="orale-1---1100-18">Orale 1 - 11:00 (18)<\/h2>$/;"	I
 orale-1---1105-30	pandoc/reti0629.html	/^<h2 id="orale-1---1105-30">Orale 1 - 11:05 (30)<\/h2>$/;"	I
 orale-1---1400	pandoc/reti0726.html	/^<h2 id="orale-1---1400">Orale 1 - 14:00<\/h2>$/;"	I
@@ -318,11 +337,21 @@ orali-del-26-luglio-2022-mattina	pandoc/reti0726.html	/^<h1 id="orali-del-26-lug
 orali-del-26-luglio-2022-pomeriggio	pandoc/reti0726.html	/^<h1 id="orali-del-26-luglio-2022-pomeriggio">Orali del 26 luglio 2022 (Pomeriggio)<\/h1>$/;"	I
 orali-del-29-giugno-2022	pandoc/reti0629.html	/^<h1 id="orali-del-29-giugno-2022">Orali del 29 giugno 2022<\/h1>$/;"	I
 orario-2022	pandoc/orario.html	/^<h1 id="orario-2022">Orario 2022<\/h1>$/;"	I
+par 1	motivation_letter.md	/^## par 1$/;"	s
+par 1	pandoc/motivation_letter.html	/^<h2 id="par-1">par 1<\/h2>$/;"	i
+par 2	motivation_letter.md	/^## par 2$/;"	s
+par 2	pandoc/motivation_letter.html	/^<h2 id="par-2">par 2<\/h2>$/;"	i
+par 3	motivation_letter.md	/^## par 3$/;"	s
+par 3	pandoc/motivation_letter.html	/^<h2 id="par-3">par 3<\/h2>$/;"	i
+par-1	pandoc/motivation_letter.html	/^<h2 id="par-1">par 1<\/h2>$/;"	I
+par-2	pandoc/motivation_letter.html	/^<h2 id="par-2">par 2<\/h2>$/;"	I
+par-3	pandoc/motivation_letter.html	/^<h2 id="par-3">par 3<\/h2>$/;"	I
 parte-1	pandoc/lab1.html	/^<h2 id="parte-1">Parte 1<\/h2>$/;"	I
 parte-2	pandoc/lab1.html	/^<h2 id="parte-2">Parte 2<\/h2>$/;"	I
+personal-library	pandoc/index.html	/^<h3 id="personal-library"><a href="library.html">Personal Library<\/a><\/h3>$/;"	I
 pf	pandoc/assets/link2html.py	/^import panflute as pf$/;"	I	nameref:module:panflute
 possible-modules	pandoc/ucd.html	/^<h2 id="possible-modules">Possible modules<\/h2>$/;"	I
-programming-languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="">Programming languages<\/a><\/h2>$/;"	I
+programming-languages	pandoc/library.html	/^<h2 id="programming-languages"><a href="https:\/\/mega.nz\/folder\/5x4l1AJD#_So9_hVM1lCgsPy0VUxf/;"	I
 referenti	pandoc/tesi_corradini.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	I
 referenti	pandoc/tesi_paganelli.html	/^<h2 id="referenti">Referenti<\/h2>$/;"	I
 reti-di-calcolatori-e-laboratorio-2021-2022	pandoc/reti.html	/^<h1 id="reti-di-calcolatori-e-laboratorio-2021-2022">Reti di calcolatori e laboratorio (<a href=/;"	I
@@ -340,5 +369,5 @@ svv06	pandoc/svv.html	/^<h2 id="svv06">svv06<\/h2>$/;"	I
 svv06	pandoc/svv.html	/^<h2 id="svv06">svv06<\/h2>$/;"	i
 svv06	svv.md	/^## svv06$/;"	s	chapter:Software validation ad verification - Ott.24
 teoria-26	pandoc/reti0726.html	/^<h3 id="teoria-26">Teoria (26)<\/h3>$/;"	I
-timetables	pandoc/notes.html	/^<h2 id="timetables">Timetables<\/h2>$/;"	I
-web-frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="">Web frameworks<\/a><\/h2>$/;"	I
+unipi-lectures	pandoc/index.html	/^<h3 id="unipi-lectures"><a href="notes.html">Unipi lectures<\/a><\/h3>$/;"	I
+web-frameworks	pandoc/library.html	/^<h2 id="web-frameworks"><a href="https:\/\/mega.nz\/folder\/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ">Web/;"	I
