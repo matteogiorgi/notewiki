@@ -1,2 +1,0 @@
-- [Masters table 1](masters.md)
-- [Masters table 2](irish_msc.md)

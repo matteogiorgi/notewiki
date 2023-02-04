@@ -177,14 +177,13 @@
 
 ## [Web frameworks](https://mega.nz/folder/154UjAqK#IA3I6a9yE5t6UnWoTdhgoQ)
 
+- [Wieruch - The road to React](https://mega.nz/file/dggRASZA#A9jQHaPbT7utz1rBVfu6yJ8d2o1Y-YAEy1cRD9NvfwI)
 - [Snoyman - Developing web apps with Haskell and Yesod](https://mega.nz/file/1lJ3BShD#eGLfh3We73WfrvT8FiOn9D96p4QPvFIRX8MuSDwE2_E)
-- [Wieruch - The road to React](https://www.amazon.it/Road-learn-React-pragmatic-React-js/dp/172004399X/ref=sr_1_11?keywords=react+js&qid=1672411881&s=books&sprefix=react%2Cstripbooks%2C111&sr=1-11)
-- [Wieruch - The road to GraphQL](https://www.amazon.it/Road-GraphQL-pragmatic-JavaScript-React-js/dp/1730853935/ref=pd_bxgy_img_sccl_1/261-3867334-0926439?pd_rd_w=R5LXM&content-id=amzn1.sym.021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_p=021d3b67-e6af-4e84-bd7c-b0e39059f4f1&pf_rd_r=T1KH3WZQGT4TW6QXKNN6&pd_rd_wg=1ZzoJ&pd_rd_r=becfd173-314a-4301-a4d0-ac08b080041c&pd_rd_i=1730853935&psc=1)
 
 
 
 
-## [Phisics & Quantum computing](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
+## [Physics & Quantum computing](https://mega.nz/folder/c85UxKaa#ekXTlEbvrGOoEcVmuq0MsQ)
 
 - [Kittel - La fisica di Berkeley 1, meccanica](https://mega.nz/file/s4oCyKzA#nmetE1syRQLoqyDaHF7m6XIdUFHSQreovNSxIpcCe2s)
 - [Purcell - La fisica di Berkeley 2, elettricità e magnetismo](nobook.md)
@@ -194,4 +193,4 @@
 
 
 
-##### [More books ...](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
+#### [More books ...](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)

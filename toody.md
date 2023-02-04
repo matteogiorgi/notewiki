@@ -1,8 +1,0 @@
-- [TooDy, new Tool for Detecting variabilitY](https://elearning.di.unipi.it/mod/forum/discuss.php?d=4442)
-- Quartz
-- Tiger
-- IBM Engineering Requirements Quality Assistant (RQA)
-- Spacy & Displacy
-- [VIBE](https://www.sciencedirect.com/science/article/abs/pii/S0164121222002163)
-- abiguità vs variabilità
-- Software product line

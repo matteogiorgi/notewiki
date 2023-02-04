@@ -1,9 +1,11 @@
-# [Notewiki](https://github.com/matteogiorgi/notewiki)
+# Geoteo NoteWiki [ツ](https://github.com/matteogiorgi/notewiki)
 
-### &bull;&nbsp; [Personal Library](library.md)
-### &bull;&nbsp; [More Notewiki](extra.md)
-### &bull;&nbsp; [Unipi lectures](notes.md)
-### &bull;&nbsp; [Motivation letter](motivation_letter.md)
+- [Personal Library](library.md)
+- [More books](more_books.md)
+- [UniPi stuff](notes.md)
+- [Backgrounds](https://mega.nz/folder/wswQVazT#0eEnITo8OGjTx8pCciiigA)
 
-<!-- - [Extra Library](books.md) -->
-<!-- - [Lettere](lettere.md) -->
+<!-- -->
+
+- [Stuff that rocks](https://suckless.org/rocks/)
+- [Everything sucks](http://harmful.cat-v.org/software/)
