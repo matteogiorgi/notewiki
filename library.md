@@ -189,8 +189,3 @@
 - [Purcell - La fisica di Berkeley 2, elettricità e magnetismo](nobook.md)
 - [Crawford - La fisica di Berkeley 3, onde e oscillazioni](nobook.md)
 - [Coecke - Picturing quantum processes](https://mega.nz/file/00YAiSKI#JevwBRme-66rpRPrPwkK-yddYXOitWShNct2L6ylDRg)
-
-
-
-
-#### [More books ...](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
