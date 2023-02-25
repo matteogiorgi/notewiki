@@ -1,4 +1,0 @@
-- formato del datagramma UDP
-- pseudoheader
-- checksum
-- TCP vs UDP

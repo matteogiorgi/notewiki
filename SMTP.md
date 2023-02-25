@@ -1,3 +1,0 @@
-- formato messaggi
-- MIME
-- accesso alla mail

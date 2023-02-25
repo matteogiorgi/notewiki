@@ -1,4 +1,0 @@
-- spazio dei nomi
-- name server
-- query iterative/ricorsive
-- record DNS

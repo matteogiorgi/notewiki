@@ -5,10 +5,9 @@
 - [Backgrounds](https://mega.nz/folder/wswQVazT#0eEnITo8OGjTx8pCciiigA)
 - [Stuff that rocks](https://suckless.org/rocks/)
 - [Everything sucks](http://harmful.cat-v.org/software/)
-- [GDG talk](vim.md)
-- [Courses](course_description.md)
 
 ---
 
-- [Reti & Lab](reti.md)
-- [Amazon tobuy](amazon.md)
+- [GDG talk](vim.md)
+- [Courses](course_description.md)
+- [Amazon](amazon.md)
