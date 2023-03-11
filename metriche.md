@@ -1,8 +1,0 @@
-- larghezza di banda
-- velocità di connessione
-- throughput
-- latenza
-    - elaborazione (trascurabile)
-    - accodamento (trascurabile)
-    - trasmissione
-    - propagazione
