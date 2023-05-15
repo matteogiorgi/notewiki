@@ -3,8 +3,8 @@
 
 #### Digital library
 
-- [Personal library](library.md)
-- [Extra books](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
+- [Library](library.md)
+- [Books](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
 
 
 #### Fun stuff
