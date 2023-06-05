@@ -19,3 +19,9 @@
 
 - [Old regulation](course_description_old_regulation.md)
 - [New regulation](course_description_new_regulation.md) ([PDF version](course_description_new_regulation.pdf))
+
+
+#### ToDo (maybe)
+
+- clean some more scripts from `~/bin/bin/`
+- clean `~/.profile`: remove languages directory from $PATH
