@@ -25,3 +25,4 @@
 
 - clean some more scripts from `~/bin/bin/`
 - clean `~/.profile`: remove languages directory from $PATH
+- [Camere Bologna](bologna.txt)
