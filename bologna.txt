@@ -1,15 +1,18 @@
 Camere Bologna
 ==============
-                                                                                           0519911795
-13. 4p + 2b  |  via A. Aldini 112     |  (A - ek-99925638/24.05.2023) Immobiliare Affitti: 3929585762  |  01 agosto  |  500$ + 25$
-21. 2p + 1b  |  via P. Pasquali 10    |  (A - r022-46554148)          Teresa Greco: 0519528850         |  15 giugno  |  550$ + ?
-17. 2p + 2b  |  via de' Carbonesi 11  |  (P - ?)                      Aurora: 3509980719               |  15 giugno  |  400$ + ?
-15. 3p + 2b  |  via G. Mezzofanti 1   |  (P - 27099767)               Gianni: 3409996555               |  20 giugno  |  550$ + 60$
-18. 2p + 2b  |  via Marsala 13        |  (P - ?)                      Antonietta: 3509980719           |  15 giugno  |  370$ + ?
+
+13. [ ] 4p + 2b  |  via A. Aldini 112     |  A - ek-99925638    |  Immobiliare Affitti: 3929585762  |  01 agosto  |  500$ + 25$
+                 |                        |      24.05.2023     |                       0519911795  |             |
+21. [X] 2p + 1b  |  via P. Pasquali 10    |  A - r022-46554148  |  Teresa Greco:        0519528850  |  15 giugno  |  550$ + ?
+17. [ ] 2p + 2b  |  via de' Carbonesi 11  |  P - ?              |  Aurora:              3509980719  |  15 giugno  |  400$ + ?
+18. [ ] 2p + 2b  |  via Marsala 13        |  P - ?              |  Antonietta:          3509980719  |  15 giugno  |  370$ + ?
 
 ---
 
-10. 1p + 1b  |  via Massarenti 264  |  (P - rr-sma/09.06.2023)       Riccardo Rizzieri: 3487439803      |  01 luglio     |  530$ + 70$
-11. 2p + 1b  |  via F. Selmi ?      |  (A - ek-103917163/15.06.2023) ???: 05119611880                   |  01 settembre  |  370$ + 50$
-20. 5p + 3b  |  via A. Costa ?      |  (A - 26361639)                Immobiliare Bologna: chat bacheka  |  15 giugno     |  500$ + ?
-14. 3p + 2b  |  via Saragozza ?     |  (A - 714/14.06.2023)          Trova Affitto Bologna: 0519528191  |  15 giugno     |  330$ + ?
+10. [ ] 1p + 1b  |  via Massarenti 264  |  P - rr-sma        |  Riccardo Rizzieri: 3487439803      |  01 luglio     |  530$ + 70$
+                 |                      |      09.06.2023    |                                     |                |
+11. [ ] 2p + 1b  |  via F. Selmi ?      |  A - ek-103917163  |  ???: 05119611880                   |  01 settembre  |  370$ + 50$
+                 |                      |      15.06.2023    |                                     |                |
+20. [ ] 5p + 3b  |  via A. Costa ?      |  A - 26361639      |  Immobiliare Bologna: chat bacheka  |  15 giugno     |  500$ + ?
+14. [X] 3p + 2b  |  via Saragozza ?     |  A - 714           |  Trova Affitto Bologna: 0519528191  |  15 giugno     |  330$ + ?
+                 |                      |      14.06.2023    |                                     |                |

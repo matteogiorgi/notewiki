@@ -1,28 +1,11 @@
-## <u>Geoteo <a href="https://github.com/matteogiorgi/notewiki">NoteWiki</a></u>
+<center>
+<h1><u>Geoteo NoteVI</u></h1>
+<h2><a href="library.html">Library</a> - <a href="https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw">Books</a> - <a href="https://mega.nz/folder/wswQVazT#0eEnITo8OGjTx8pCciiigA">Backgrounds</a></h2>
+</center>
+<br>
 
 
-#### Digital library
-
-- [Library](library.md)
-- [Books](https://mega.nz/folder/EsQm1KZA#Ii6gX-EgA_I8YJtAv7moVw)
-
-
-#### Fun stuff
-
-- [Amazon wish list](amazon.md)
-- [Udot backgrounds](https://mega.nz/folder/wswQVazT#0eEnITo8OGjTx8pCciiigA)
-- [Stuff that rocks](https://suckless.org/rocks/)
-- [Everything sucks](http://harmful.cat-v.org/software/)
-
-
-#### UniPi info
-
-- [Old regulation](course_description_old_regulation.md)
-- [New regulation](course_description_new_regulation.md) ([PDF version](course_description_new_regulation.pdf))
-
-
-#### ToDo (maybe)
-
-- clean some more scripts from `~/bin/bin/`
-- clean `~/.profile`: remove languages directory from $PATH
-- [Camere Bologna](bologna.txt)
+* `dom 25 giu 2023, 22:09:01 (CEST)` &nbsp; - &nbsp; [Computer Science UniPi](course_description_new_regulation.md)
+* `lun 26 giu 2023, 08:10:17 (CEST)` &nbsp; - &nbsp; [Amazon wish list (last gear)](amazon.md)
+* `lun 26 giu 2023, 08:11:24 (CEST)` &nbsp; - &nbsp; [Laboratorio di Reti 2022-2023](file:///home/geoteo/Documents/reti/lab3/notevi/README.html)
+* `lun 26 giu 2023, 08:12:19 (CEST)` &nbsp; - &nbsp; [WORDLE: un gioco di parole 3.0](file:///home/geoteo/Documents/reti/wordle/notevi/README.html)

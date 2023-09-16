@@ -1,18 +1,21 @@
-\begin{center}
-\huge\bfseries
-BSc Computer Science\\
-University of Pisa\\
-\vspace{0.5cm}
-\Large
-Course description
-\end{center}
+<!-- \begin{center} -->
+<!-- \huge\bfseries -->
+<!-- BSc Computer Science\\ -->
+<!-- University of Pisa\\ -->
+<!-- \vspace{0.5cm} -->
+<!-- \Large -->
+<!-- Course description -->
+<!-- \end{center} -->
+
+<!-- \vspace{0.5cm} -->
+<!-- --- -->
+<!-- \vspace{0.5cm} -->
 
 
-\vspace{0.5cm}
-
----
-
-\vspace{0.5cm}
+<center>
+<h1><u>BSc Computer Science - University of Pisa</u></h1>
+<h2>Course description</h2>
+</center><br>
 
 
 
